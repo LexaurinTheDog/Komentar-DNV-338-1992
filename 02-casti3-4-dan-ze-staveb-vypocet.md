@@ -58,6 +58,42 @@ Připomíná se vazba na zásadu superficies solo cedit: zdanitelná stavba, kte
 
 Odstavec 4 rozšiřuje předmět daně i na **část budovy nebo inženýrské stavby** a na **součást jednotky**, jsou-li dokončeny nebo užívány. Jde o situace, kdy je dokončena a užívána pouze část stavby (např. jedno patro polyfunkčního domu); i tato část podléhá dani bez ohledu na dokončenost celku.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Investor dostaví na svém pozemku polyfunkční dům. Ke dni 1. ledna 2026 je dokončeno a fakticky užíváno přízemí (obchodní prostory), kde již běží provoz prodejny, zatímco horní dvě patra zůstávají ve stavu hrubé stavby bez kolaudace. Současně na sousedním pozemku téhož investora stojí vysílací věž (CZ-CC ex 221341), uvedená do provozu, a malý skladový přístřešek. Účastníci: investor (vlastník pozemku i staveb), správce daně (finanční úřad), případně dosud nezapsané stavby v katastru. Důkazy k obstarání: kolaudační souhlas / oznámení o užívání části stavby, projektová dokumentace, fotodokumentace skutečného užívání, výpis z katastru, technická specifikace věže s kódem CZ-CC.
+
+**2. Právní otázka.** Které z těchto staveb (a jejich částí) jsou ke dni 1. 1. 2026 předmětem daně ze staveb a jednotek podle § 7, je-li dokončena a užívána jen část polyfunkčního domu a stojí-li na pozemku inženýrská stavba?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 7 odst. 1 (předmět daně — budova, inženýrská stavba z přílohy, jednotka, vždy dokončené nebo užívané), odst. 3 (stavba jako součást pozemku — superficies solo cedit), odst. 4 (část budovy/inženýrské stavby, je-li dokončena nebo užívána).
+- *Související ustanovení téhož zákona:* § 8 (poplatník — vlastník věci, jejíž je stavba součástí), § 10 (základ daně — zastavěná plocha nadzemní části), § 10a a § 11 (zařazení do skupiny a sazba), § 12c (rozhodný stav k 1. lednu).
+- *Související předpisy:* katastrální zákon č. 256/2013 Sb. (definice budovy); stavební zákon (kolaudace, zastavěná plocha); příloha k zákonu č. 338/1992 Sb. (taxativní výčet inženýrských staveb dle CZ-CC); § 506 obč. zák. (součást pozemku).
+- *Judikatura:* nosný závěr NSS, že pro vznik předmětu daně ze staveb postačuje faktické užívání i u stavby formálně nedokončené (zkolaudované), neboť zákon klade dokončenost a užívání do alternativy; dále judikatorní teze, že daňová a katastrální evidence se mohou rozcházet a pro daň je rozhodný faktický stav stavby, nikoli zápis.
+
+**4. Subsumpce.** Přízemí prodejny: jde o část budovy, která je dokončená a užívaná → spadá pod § 7 odst. 1 písm. a) bod 1 ve spojení s odst. 4; předmětem daně je. Horní patra (hrubá stavba, neužívaná, nedokončená): nesplňují znak „dokončená nebo užívaná" → nejsou předmětem daně (k jejich ploše se nepřihlíží). Vysílací věž: je inženýrskou stavbou výslovně uvedenou v příloze (ex 221341) a je užívaná → předmětem daně je. Skladový přístřešek: budova (je-li dokončen/užíván) → předmět daně; pokud nedosahuje znaků budovy podle katastrálního zákona (např. není uzavřen obvodovými stěnami), předmětem daně ze staveb není. Vlastnictví: stavby jsou součástí pozemku, proto § 7 odst. 3 — poplatníkem je vlastník pozemku.
+
+**5. Řešení.** Investor přizná k dani jen dokončenou/užívanou část domu (přízemí), vysílací věž a (splňuje-li znaky budovy) přístřešek; nedokončená patra do přiznání nezahrne. Praktický postup: doložit oznámení o užívání části stavby a fotodokumentaci provozu prodejny; u věže ověřit kód CZ-CC vůči příloze. Riziko: správce daně může dovodit faktické užívání i u horních pater, je-li tam např. uskladněn materiál nebo provedeno fakturované užívání — proto je vhodné předem prokázat, že patra užívána nejsou.
+
+**6. Varianty.** (a) Pokud by horní patra byla po dokončení zkolaudována k 1. 1., stala by se předmětem daně celá budova bez ohledu na faktickou neobsazenost. (b) Pokud by inženýrská stavba nebyla věží uvedenou v příloze (např. obyčejný plot či zpevněná plocha), nebyla by vůbec předmětem daně ze staveb, byť je dokončená a užívaná.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „nezapsáno v katastru = nezdaňuje se".* Neobstojí: § 7 váže předmět daně na faktickou existenci dokončené/užívané stavby, nikoli na zápis (u budovy katastrální zákon definuje jen pojem, nikoli evidenční podmínku). Neutralizace: argumentovat faktickým stavem a fotodokumentací.
+- *Protiargument „část = celek".* Vlastník může tvrdit, že nedokončenou část nelze oddělit a celá stavba je nedokončená, takže nic se nedaní. Riziko: § 7 odst. 4 výslovně podrobuje dani i část budovy, je-li dokončena/užívána — tvrzení o nedělitelnosti je tedy slabé; rozhodný je stav konkrétní užívané části.
+- *Slabé místo:* hranice mezi „inženýrskou stavbou v příloze" a běžnou stavbou nezahrnutou v příloze je úzce technická (kód CZ-CC, předpona „ex"); chybné zařazení vede buď k neoprávněnému zdanění, nebo k úniku. Doporučuje se odborné posouzení klasifikace.
+
+#### H. Praktický závěr
+
+Předmětem daně ze staveb a jednotek je vždy jen dokončená nebo užívaná budova, inženýrská stavba uvedená v příloze, nebo jednotka — a to i jen jejich dokončená/užívaná část. Rozhoduje faktický stav k 1. lednu, nikoli zápis v katastru. Je-li budova členěna na jednotky, nedaní se jako stavba (odst. 2).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o budovu (def. katastrálního zákona) nebo o inženýrskou stavbu výslovně uvedenou v příloze (kód CZ-CC, pozor na předponu „ex")?
+- [ ] Je stavba/část ke dni 1. 1. dokončená NEBO užívaná?
+- [ ] Není budova rozdělena na jednotky (pak se daní jen jednotky, § 7 odst. 2)?
+- [ ] Není-li stavba samostatnou věcí, kdo je vlastníkem pozemku (§ 7 odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** kolaudační souhlas / oznámení o užívání, projektová dokumentace, výpis z katastru, fotodokumentace faktického užívání, technická klasifikace inženýrské stavby (CZ-CC).
+
 ---
 
 ### § 8 — Poplatníci daně
@@ -113,6 +149,42 @@ V těchto dvou specifických situacích se poplatníkem stává **nájemce nebo 
 #### Subsidiární poplatník — uživatel (odst. 4)
 
 Pokud vlastník není znám nebo je-li příslušnost k hospodaření u Státního pozemkového úřadu či Úřadu pro zastupování státu ve věcech majetkových (UZSVM), stává se poplatníkem **uživatel** zdanitelné stavby nebo jednotky. Tím zákon zabraňuje úniku daně z důvodu neurčenosti vlastníka.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Budova bývalého úřadu je ve vlastnictví České republiky a hospodaří s ní organizační složka státu (úřad). Tatáž ČR vlastní halu, s níž je příslušná hospodařit Správa státních hmotných rezerv a kterou si pronajala soukromá logistická firma. Vedle toho existuje rodinný dům, jehož vlastník zemřel, dědické řízení neskončilo a dům fakticky obývá jeho synovec. Účastníci: ČR (vlastník), organizační složka státu, Správa státních hmotných rezerv, nájemce-logistická firma, neznámý/nezpůsobilý vlastník a faktický uživatel. Důkazy: výpisy z katastru, zápisy o příslušnosti hospodařit, nájemní smlouva, doklady dědického řízení, listiny o faktickém užívání.
+
+**2. Právní otázka.** Kdo je poplatníkem daně ze staveb a jednotek u každé z těchto tří nemovitostí podle § 8 — stát, hospodařící složka, nájemce, nebo uživatel?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 8 odst. 1 (vlastník), odst. 2 písm. a) (státní nemovitost — příslušnost hospodařit), odst. 3 písm. a) (Správa státních hmotných rezerv → nájemce/pachtýř), odst. 4 písm. a) a b) (uživatel, není-li vlastník znám, resp. SPÚ/ÚZSVM).
+- *Související ustanovení téhož zákona:* § 7 odst. 3 (vlastnictví stavby coby součásti pozemku), § 9 odst. 1 písm. a) (osvobození státních nemovitostí — odlišovat poplatníka od osvobození), § 13a (přiznání).
+- *Související předpisy:* zákon č. 219/2000 Sb. o majetku ČR (příslušnost hospodařit, výpůjčka); zákon o Správě státních hmotných rezerv; obč. zák. (dědictví — § 1670, přechod vlastnictví ke dni smrti zůstavitele).
+- *Judikatura:* nosný závěr, že poplatníkem u státního majetku není stát jako takový, nýbrž subjekt příslušný hospodařit; a dále teze, že institut „uživatele" jako poplatníka nastupuje subsidiárně jen za zákonem vymezených podmínek, nikoli kdykoli někdo nemovitost fakticky užívá.
+
+**4. Subsumpce.** Budova úřadu: vlastníkem je ČR, hospodaří organizační složka státu → poplatníkem je tato složka (odst. 2 písm. a bod 1), nikoli stát ani úřad jako takový (samostatně může být osvobozena dle § 9). Hala SSHR pronajatá firmě: je naplněn odst. 3 písm. a) → poplatníkem je vždy nájemce (logistická firma), bez ohledu na vlastnictví ČR. Rodinný dům v dědickém řízení: vlastnické právo přešlo na dědice ke dni smrti, ale dědic dosud není postaven najisto; je-li vlastník fakticky „neznámý" ve smyslu odst. 4 písm. a), stává se poplatníkem uživatel (synovec). Pokud je však dědic znám a jen probíhá řízení, poplatníkem zůstává dědic jako vlastník.
+
+**5. Řešení.** Přiznání podají: organizační složka státu (úřad), nájemce haly (firma) a buď dědic, nebo subsidiárně uživatel domu. Procesně: nájemce ověří, zda hospodaření vykonává právě SSHR (jinak by odst. 3 nedopadl); u dědictví je třeba posoudit, zda je okruh dědiců znám. Riziko: záměna poplatníka u státního majetku (úřad omylem přizná za „stát"); nesprávné podřazení běžného nájmu pod odst. 3 (ten platí jen pro SSHR a privatizaci na MF, ne pro jakýkoli nájem).
+
+**6. Varianty.** (a) Kdyby halu nehospodařila SSHR, ale běžná organizační složka státu, poplatníkem by nebyl nájemce, nýbrž tato složka (odst. 2), a nájem by na osobu poplatníka neměl vliv. (b) Kdyby s domem byl příslušný hospodařit Státní pozemkový úřad nebo ÚZSVM, poplatníkem by se stal uživatel přímo z odst. 4 písm. b), i kdyby byl vlastník jinak znám.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „nájemce vždy platí daň".* Mylné: přechod poplatnictví na nájemce/pachtýře nastává jen v úzkých případech odst. 3 (SSHR, privatizace na MF). U běžného soukromého nájmu zůstává poplatníkem vlastník. Neutralizace: prokázat, kdo je příslušný hospodařit.
+- *Protiargument „uživatel = poplatník, protože nemovitost užívá".* Neobstojí obecně: odst. 4 je subsidiární a aktivuje se jen, není-li vlastník znám nebo jde-li o SPÚ/ÚZSVM. Faktické užívání samo o sobě poplatnictví nezakládá.
+- *Slabé místo:* pojem „vlastník není znám" je neostrý; v dědickém řízení se může lišit posouzení, zda je vlastník (dědic) znám. Doporučuje se vyžádat doklady o stavu řízení a vyhnout se předčasnému přenosu povinnosti na uživatele.
+
+#### H. Praktický závěr
+
+Poplatníkem je zásadně vlastník (odst. 1). U státního majetku jím je subjekt příslušný hospodařit (odst. 2), u fondů sám fond (odst. 2 písm. b–d), u majetku SSHR a privatizace na MF nájemce/pachtýř (odst. 3) a subsidiárně uživatel, není-li vlastník znám nebo jde-li o SPÚ/ÚZSVM (odst. 4). Otázku poplatníka je nutné odlišit od otázky osvobození (§ 9).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Kdo je zapsán/skutečný vlastník (vč. § 7 odst. 3 u staveb-součástí pozemku)?
+- [ ] Jde o státní majetek? Kdo je příslušný hospodařit (organizační složka, fond, podnik)?
+- [ ] Hospodaří s věcí SSHR nebo byla privatizována na MF (→ poplatníkem nájemce/pachtýř)?
+- [ ] Je vlastník neznámý nebo jde o SPÚ/ÚZSVM (→ poplatníkem uživatel)?
+
+**Typicky rozhodné důkazy / podklady:** výpis z katastru, zápis o příslušnosti hospodařit, nájemní/pachtovní smlouva, doklady dědického řízení, listiny prokazující faktické užívání.
 
 ---
 
@@ -257,6 +329,42 @@ Zákonodárce pro část titulů (d) až f), k), m) až r), u), v)) požaduje **
 
 Osvobozena je zásadně pouze ta část stavby nebo jednotky, která podmínky splňuje — zachovává se princip poměrnosti. Výjimkou jsou stavby vodárenské (i) a dopravní (j): pokud alespoň část splňuje podmínky, je osvobozena celá zdanitelná stavba. Poměr se zjišťuje z podlahové plochy osvobozené části k celkové podlahové ploše nadzemní části stavby, resp. ploše jednotky.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Registrovaná církev vlastní budovu fary. V přízemí slouží prostory k výkonu duchovní správy a bohoslužbám, v patře však církev provozuje komerční kavárnu otevřenou veřejnosti za úplatu. Vedle toho spolek zdravotně postižených vlastní budovu, jejíž jednu kancelář pronajímá realitní agentuře. Účastníci: registrovaná církev a spolek (vlastníci uplatňující osvobození), správce daně, nájemce-agentura. Důkazy: výpis z rejstříku církví/spolků, doklady o účelu užívání jednotlivých částí, nájemní smlouva, podlahové výměry osvobozené a neosvobozené části, daňové přiznání s uplatněným nárokem.
+
+**2. Právní otázka.** V jakém rozsahu jsou budovy osvobozeny podle § 9 odst. 1 písm. e) a f), je-li část plochy užívána k podnikání (kavárna) nebo pronajata (kancelář), a jak se osvobození uplatní procesně?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 9 odst. 1 písm. e) (církve — budovy k náboženským obřadům a duchovní správě), písm. f) (spolky a obdobné subjekty), odst. 2 a 3 (proporcionalita — osvobozena jen splňující část, poměr podle podlahové plochy), odst. 4 (negativní podmínka: nesmí být užíváno k podnikání, pronajímáno, propachtováno), odst. 5 (uplatnění nároku v přiznání).
+- *Související ustanovení téhož zákona:* § 10 (podlahová plocha jako základ pro poměr), § 11a (zvýšení daně za nebytový prostor k podnikání), § 13a (daňové přiznání).
+- *Související předpisy:* zákon č. 3/2002 Sb. o církvích a náboženských společnostech; zákon č. 89/2012 Sb. (spolek); živnostenský zákon (podnikání).
+- *Judikatura:* nosný závěr, že osvobození u nestátních subjektů (církve, spolky) je vázáno na faktický účel užívání a zaniká pro tu část, která slouží podnikání či je pronajata; a teze, že nárok na osvobození, který zákon váže na uvedení v přiznání, nelze přiznat z úřední povinnosti, není-li uplatněn.
+
+**4. Subsumpce.** Fara — přízemí (bohoslužby, duchovní správa): splňuje účel dle písm. e) a není užíváno k podnikání → osvobozeno. Fara — patro (komerční kavárna): jde o užívání k podnikání → dle odst. 4 osvobození nenáleží; dle odst. 2–3 se osvobodí jen poměrná část (přízemí) podle podlahové plochy. Budova spolku — pronajatá kancelář: pronájem vylučuje osvobození pro tuto část (odst. 4) → osvobozena jen zbývající, nepronajatá a nepodnikatelská část v příslušném poměru. Procesně: oba subjekty musí nárok uplatnit v daňovém přiznání (odst. 5 zahrnuje písm. e i f).
+
+**5. Řešení.** Církev i spolek vyčíslí poměr osvobozené plochy k celkové podlahové ploše nadzemních částí a osvobození uplatní v přiznání jen na tuto část; na podnikatelskou/pronajatou část se daň vyměří (u fary navíc zvážit § 11a). Procesní kroky: doložit účel užívání každé místnosti, výměry, nájemní smlouvu. Riziko: opomenutí uplatnit nárok v přiznání (pak osvobození nevznikne), nebo nesprávné tvrzení o nepodnikatelském užívání kavárny.
+
+**6. Varianty.** (a) Kdyby kavárna byla provozována jen příležitostně bez živnostenského podnikání a bez úplaty (např. farní setkávání), nešlo by o podnikání a osvobození by zůstalo zachováno. (b) Kdyby šlo o stavbu vodárenskou (písm. i) nebo dopravní (j), platí výjimka z proporcionality podle odst. 2 — osvobozena by byla celá stavba i při splnění podmínek jen u části.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „církev/spolek je osvobozen vždy".* Neobstojí: písm. e) a f) jsou výslovně podmíněny v odst. 4 tím, že nemovitost není užívána k podnikání, pronajímána ani propachtována. Neutralizace: oddělit a vyčíslit jen splňující část.
+- *Protiargument „osvobození vznikne automaticky".* U titulů uvedených v odst. 5 (vč. e, f) nárok vzniká jen jeho uplatněním v přiznání; bez toho jej správce nepřizná. Riziko propadnutí osvobození při pasivitě poplatníka.
+- *Slabé místo:* mezerovitost abecedního výčtu (chybí h, q, s) může vést k mylnému dovozování „nepojmenovaného" titulu; výčet je však taxativní a mezery jsou jen důsledkem zrušení původních písmen. Nelze osvobozovat analogicky.
+
+#### H. Praktický závěr
+
+§ 9 obsahuje taxativní katalog osvobození; mnohá jsou podmíněna nepodnikatelským užíváním a nepronajímáním (odst. 4) a část vyžaduje uplatnění v daňovém přiznání (odst. 5). Osvobozena je zásadně jen splňující část v poměru podle podlahové plochy (odst. 2–3), s výjimkou staveb vodárenských a dopravních.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Pod které písmeno odst. 1 titul spadá a jaký účel/vlastnictví vyžaduje?
+- [ ] Není naplněna negativní podmínka odst. 4 (podnikání, nájem, pacht)?
+- [ ] Splňuje podmínky celá nemovitost, nebo jen část (poměr dle podlahové plochy, odst. 2–3)?
+- [ ] Jde o titul vyžadující uplatnění v přiznání (odst. 5: d–f, k, m–r, u, v)?
+
+**Typicky rozhodné důkazy / podklady:** výpis z příslušného rejstříku (církve, spolky, VVI, VVŠ), doklady o účelu užívání jednotlivých částí, nájemní/pachtovní smlouvy, výměry podlahových ploch, smlouva s Ministerstvem kultury (písm. d), kolaudační rozhodnutí (písm. p), OZV obce (písm. w).
+
 ---
 
 ### § 10 — Základ daně
@@ -320,6 +428,42 @@ Tato hierarchie chrání principy právní jistoty a předvídatelnosti; poplatn
 
 Do základu daně se nezahrnuje podlahová plocha **společných částí nemovité věci** v rozsahu podílu, který je zahrnut v jednotce (chodby, schodiště, technické místnosti apod.). Zahrnuty jsou pouze plochy přímo tvořící obsah jednotky.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Poplatník vlastní byt (jednotku) v bytovém domě; součástí jednotky je podíl na pozemku pod domem. V katastru je u jednotky evidována podlahová plocha 70 m², ačkoli skutečná výměra po stavební úpravě činí 65 m². Vedle toho je v jednotce zahrnut podíl na společných částech (chodby, schodiště). Účastníci: vlastník jednotky, společenství vlastníků, správce daně. Důkazy: výpis z katastru s evidovanou plochou, prohlášení vlastníka, geometrické zaměření skutečného stavu, doklad o podílu na pozemku.
+
+**2. Právní otázka.** Z jaké podlahové plochy a s jakým koeficientem se stanoví základ daně u jednotky podle § 10 odst. 3–5 — z evidovaných 70 m², nebo ze skutečných 65 m², a uplatní se koeficient 1,22, nebo 1,20?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 10 odst. 3 (upravená podlahová plocha × koeficient 1,22 / 1,20), odst. 4 (hierarchie zjištění plochy: katastr → prohlášení vlastníka → skutečný stav), odst. 5 (vyloučení podlahové plochy společných částí v rozsahu podílu zahrnutého v jednotce).
+- *Související ustanovení téhož zákona:* § 10 odst. 1–2 (zastavěná plocha u staveb — pro srovnání), § 11 (sazba), § 12c (rozhodný stav k 1. lednu), § 13a (přiznání).
+- *Související předpisy:* § 1159 a násl. obč. zák. (jednotka, podíl na společných částech a pozemku); katastrální zákon č. 256/2013 Sb. (evidence podlahové plochy); prohlášení vlastníka.
+- *Judikatura:* nosný závěr, že pro daňové účely má přednost údaj evidovaný v katastru, byť neodpovídá skutečnosti (formální publicita), a teprve při jeho absenci se přechází k prohlášení vlastníka, resp. ke skutečnému stavu.
+
+**4. Subsumpce.** Podlahová plocha: katastr eviduje 70 m² → dle odst. 4 písm. a) se vychází z této hodnoty bez ohledu na to, že skutečný stav je 65 m²; skutečnost (65 m²) by se uplatnila jen tehdy, kdyby katastr ani prohlášení plochu neevidovaly. Koeficient: jednotka je v bytovém domě a její součástí je podíl na pozemku → naplněn odst. 3 písm. a) body 1 a 2 → koeficient 1,22. Společné části: podíl na chodbách a schodišti zahrnutý v jednotce se dle odst. 5 do plochy nezahrnuje. Upravená podlahová plocha = 70 m² × 1,22 (po vyloučení společných částí, jsou-li v evidované ploše obsaženy).
+
+**5. Řešení.** Základ daně = evidovaná podlahová plocha (70 m²) očištěná o podíl na společných částech, vynásobená koeficientem 1,22. Poplatník nemůže pro snížení daně tvrdit skutečných 65 m², dokud je v katastru evidováno 70 m²; nápravou je oprava katastrálního údaje. Procesní kroky: ověřit, zda evidovaná plocha nezahrnuje společné části (pak je z ní vyloučit), doložit podíl na pozemku pro koeficient 1,22. Riziko: chybné použití koeficientu 1,20 u jednotky, k níž podíl na pozemku náleží.
+
+**6. Varianty.** (a) Kdyby jednotka neměla součástí podíl na pozemku (ani spoluvlastnictví společně užívaného pozemku), uplatnil by se koeficient 1,20. (b) Kdyby plocha nebyla evidována v katastru, ale byla uvedena v prohlášení vlastníka, vycházelo by se z prohlášení (odst. 4 písm. b) — a teprve při jeho absenci ze skutečného stavu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „rozhoduje skutečná výměra".* Neobstojí: odst. 4 výslovně přikazuje vyjít z katastru „bez ohledu na to, zda odpovídá skutečnému stavu". Skutečný stav je až třetí v pořadí. Neutralizace: nejprve opravit katastrální údaj, pak teprve klesne základ daně.
+- *Protiargument „koeficient 1,22 jen u nově vymezených jednotek".* Mylné: rozhodující je věcná podmínka (bytový dům + podíl na pozemku), nikoli doba vzniku jednotky. Riziko nesprávného zařazení.
+- *Slabé místo:* posouzení, zda evidovaná plocha již vylučuje společné části, vyžaduje znalost obsahu zápisu a prohlášení vlastníka; při nejasnosti hrozí dvojí započtení nebo naopak neoprávněné snížení. Doporučuje se porovnat katastrální údaj s prohlášením vlastníka.
+
+#### H. Praktický závěr
+
+Základ daně je u staveb zastavěná plocha nadzemní části (odst. 1–2), u jednotek upravená podlahová plocha = podlahová plocha × koeficient 1,22 (bytový dům s podílem na pozemku) nebo 1,20 (ostatní), zjištěná přednostně z katastru, podpůrně z prohlášení vlastníka, naposledy ze skutečného stavu (odst. 4). Společné části se v rozsahu podílu nezahrnují (odst. 5). Rozhodný je stav k 1. lednu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] U stavby: je vyměřena jen nadzemní zastavěná plocha (bez podzemních částí)?
+- [ ] U jednotky: je plocha evidována v katastru? Pokud ne, je v prohlášení vlastníka? Jinak skutečný stav.
+- [ ] Je jednotka v bytovém domě a je její součástí podíl na pozemku (→ koeficient 1,22), nebo nikoli (→ 1,20)?
+- [ ] Byla z plochy vyloučena podlahová plocha společných částí v rozsahu podílu (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** výpis z katastru s evidovanou podlahovou plochou, prohlášení vlastníka, doklad o podílu na pozemku, geometrické zaměření (jen není-li plocha jinak evidována), údaj o zastavěné ploše dle stavební dokumentace.
+
 ---
 
 ### § 10a — Skupiny staveb a jednotek
@@ -380,6 +524,42 @@ U staveb zařazených primárně do skupin a–c nebo g platí, že je-li jejich
 #### Subsidiární zařazení (odst. 5)
 
 Nelze-li určit, do které z podnikatelských skupin d–f stavba nebo jednotka patří (např. smíšené podnikatelské účely), zařadí se do skupiny pro **ostatní druhy podnikání** (písm. f).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Podnikatel-fyzická osoba vlastní budovu, kterou má zařazenou v obchodním majetku podle zákona o daních z příjmů. V budově je 45 % podlahové plochy užíváno jako kancelář realitní činnosti (ostatní podnikání), 40 % jako sklad a 15 % jako garáž pro firemní vozidla. Vedle toho je v téže lokalitě jednotka, jejíž polovinu plochy užívá vlastník jako garáž a druhou polovinu jako dílnu k ostatnímu podnikání (stejný poměr ploch). Účastníci: podnikatel-vlastník, správce daně. Důkazy: účetní evidence obchodního majetku, doklady o účelu užívání jednotlivých částí, výměry podlahových ploch.
+
+**2. Právní otázka.** Do které skupiny podle § 10a se zařadí budova zahrnutá v obchodním majetku a jak se zařadí jednotka při rovnosti podlahových ploch užívaných k různým účelům?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 10a odst. 1 (osm skupin a–h), odst. 2 (zařazení jednotky podle převažujícího účelu; při rovnosti do skupiny s nejvyšší sazbou), odst. 3 (přednost podnikatelské skupiny d–f, převažuje-li podnikání), odst. 4 (obchodní majetek → vždy d–f, s výjimkami pro a, c, h), odst. 5 (subsidiárně skupina f).
+- *Související ustanovení téhož zákona:* § 11 odst. 1 (sazby navázané na skupiny), § 11a (zvýšení daně), § 10 (podlahová plocha).
+- *Související předpisy:* zákon č. 586/1992 Sb. o daních z příjmů (obchodní majetek); živnostenský zákon (druhy podnikání).
+- *Judikatura:* nosný závěr, že rozhodující pro zařazení je faktický převažující účel užívání, avšak u majetku zahrnutého v obchodním majetku podnikatele zákon zakotvuje fikci podnikatelského užití (zařazení do d–f) bez ohledu na faktické užívání, s taxativními výjimkami.
+
+**4. Subsumpce.** Budova v obchodním majetku: dle odst. 4 se zařadí vždy do skupiny d–f, ledaže jde o výjimku (obytná budova písm. a, garáž písm. c, nebo ostatní jednotka písm. h bez jiného nebytového prostoru než garáž/sklep/komora). Zde jde o budovu sloužící ostatnímu podnikání (realitní kancelář + sklad) → skupina f) (ostatní druhy podnikání), neboť převažující účel (kancelář 45 % + sklad nelze podřadit pod d/e zemědělství/průmysl) směřuje k „ostatním druhům podnikání". Jednotka garáž/dílna při poměru 50:50: nelze určit převažující účel → dle odst. 2 věty druhé se zařadí do skupiny s nejvyšší sazbou; mezi garáží (14,50 Kč) a ostatním podnikáním (18,00 Kč) je vyšší sazba u podnikání → skupina f).
+
+**5. Řešení.** Budova se zařadí do skupiny f) (sazba 18,00 Kč/m²) na základě odst. 4 (obchodní majetek), bez zkoumání, zda by jinak převažovalo neobchodní využití. Jednotka se při rovnosti ploch zařadí do skupiny f) podle pravidla nejvyšší sazby (odst. 2). Procesní kroky: doložit zařazení v obchodním majetku, vyčíslit poměry ploch. Riziko: poplatník se může pokusit budovu vyřadit z obchodního majetku, aby unikl skupině d–f; pak by rozhodoval faktický převažující účel.
+
+**6. Varianty.** (a) Kdyby budova v obchodním majetku byla obytným domem (písm. a) nebo garáží (písm. c), výjimka z odst. 4 by zařazení do d–f vyloučila a zůstala by ve své původní skupině. (b) Kdyby u jednotky převažovala garáž (např. 60 %), zařadila by se do skupiny garáží c) se sazbou 14,50 Kč, nikoli do f).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „rozhoduje vždy faktický účel".* Neobstojí u majetku zahrnutého v obchodním majetku: odst. 4 zakotvuje zařazení do d–f bez ohledu na faktické užívání (s výjimkami a, c, h). Neutralizace: ověřit, zda nemovitost je/není v obchodním majetku.
+- *Protiargument „při rovnosti se nezdaňuje / volí nižší sazba".* Mylné: odst. 2 výslovně přikazuje při rovnosti ploch zařazení do skupiny s nejvyšší sazbou. Riziko podhodnocení daně.
+- *Slabé místo:* určení „převažující části podlahové plochy" u smíšených objektů je skutkově náročné a může být sporné; doporučuje se přesné zaměření a evidence účelu každé části. Hranice mezi skupinami d), e) a f) (druhy podnikání) bývá nejasná — pak nastupuje subsidiární skupina f) (odst. 5).
+
+#### H. Praktický závěr
+
+Zařazení do jedné z osmi skupin (§ 10a) určuje sazbu daně (§ 11). Rozhoduje převažující účel užívání; při rovnosti ploch u jednotky skupina s nejvyšší sazbou (odst. 2). Převažuje-li podnikání, přednost mají skupiny d–f (odst. 3); nemovitost v obchodním majetku podnikatele se vždy řadí do d–f s výjimkami pro obytné budovy, garáže a některé jednotky (odst. 4); nelze-li určit konkrétní podnikatelskou skupinu, platí f) (odst. 5).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je nemovitost zahrnuta v obchodním majetku podnikatele (→ d–f, mimo výjimky a, c, h)?
+- [ ] Jaký je převažující účel užívání (nadpoloviční podíl podlahové/zastavěné plochy)?
+- [ ] Převažuje-li podnikání, jde o zemědělství/les/voda (d), průmysl/stavebnictví/doprava/energetika (e), nebo ostatní (f)?
+- [ ] Při rovnosti ploch u jednotky — zařazeno do skupiny s nejvyšší sazbou?
+
+**Typicky rozhodné důkazy / podklady:** účetní evidence obchodního majetku, výměry a doklady o účelu užívání jednotlivých částí, živnostenské/podnikatelské oprávnění, projektová dokumentace.
 
 ---
 
@@ -492,6 +672,42 @@ Obec může OZV koeficient **zvýšit o jednu kategorii** pro obytné budovy a o
 
 Rekreační budovy umístěné v **národním parku nebo v zóně I. CHKO** mají sazbu (vč. zvýšení za podlaží) násobenou koeficientem 2,0. Záměrem zákonodárce je kompenzovat specifické náklady veřejné správy spojené s ochranou přírody a zabránit nadměrné rekreační výstavbě v nejcennějších přírodních oblastech.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Vlastník má v obci s 30 000 obyvateli třípatrový bytový dům (budova obytného domu). Zastavěná plocha přízemí je 200 m²; každé z dalších dvou nadzemních podlaží má zastavěnou plochu 180 m² (tj. 90 % plochy přízemí, přesahuje 2/3). Obec navíc OZV zvýšila obecní koeficient o jednu kategorii. Vedle toho vlastní rekreační chatu v zóně I. CHKO. Účastníci: vlastník, obec (jako normotvůrce OZV), správce daně. Důkazy: stavební dokumentace s plochami podlaží, údaj o počtu obyvatel obce, OZV obce, doklad o poloze chaty v CHKO.
+
+**2. Právní otázka.** Jak se vypočte sazba daně u bytového domu s více nadzemními podlažími v obci nad 25 000 obyvatel se zvýšeným koeficientem a jaká sazba platí pro rekreační chatu v zóně I. CHKO podle § 11?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 11 odst. 1 písm. a) (budova obytného domu 3,50 Kč), odst. 2 (zvýšení o 1,40 Kč/m² za další nadzemní podlaží nad práh 2/3, resp. 1/3 u podnikání), odst. 3 (definice nadzemních podlaží), odst. 4 (koeficient podle velikosti obce), odst. 5 (OZV zvýšení o kategorii), odst. 6 (koeficient 2,0 pro rekreační budovy v NP / zóně I. CHKO).
+- *Související ustanovení téhož zákona:* § 10a (skupiny), § 10 (zastavěná plocha), § 11a (zvýšení za nebytový prostor), § 12 (místní koeficient — odlišný od obecního).
+- *Související předpisy:* zákon o ochraně přírody a krajiny (NP, zóny CHKO); stavební zákon (zastavěná plocha, projektová dokumentace); zákon o obcích (vydávání OZV).
+- *Judikatura:* nosný závěr, že zvýšení sazby za další nadzemní podlaží je vázáno na splnění plošného prahu u každého podlaží zvlášť, a teze, že koeficient podle velikosti obce a místní koeficient (§ 12) jsou samostatné nástroje, které nelze zaměňovat.
+
+**4. Subsumpce.** Základní sazba obytného domu = 3,50 Kč/m² (písm. a). Zvýšení za podlaží: dům má dvě další nadzemní podlaží, každé s plochou 180 m² > 2/3 z 200 m² (133,3 m²) → splněn práh dle odst. 2 písm. a) → sazba se zvýší o 2 × 1,40 = 2,80 Kč → 6,30 Kč/m². Koeficient podle velikosti obce: 30 000 obyvatel → kategorie „nad 25 000 do 50 000" = 2,5 (odst. 4 písm. e); OZV jej zvýšila o jednu kategorii na 3,5 (odst. 5). Výsledná sazba domu = 6,30 × 3,5. Rekreační chata v zóně I. CHKO: základní sazba 11,00 Kč (písm. c), případně zvýšená za podlaží, × koeficient 2,0 (odst. 6).
+
+**5. Řešení.** U bytového domu: (3,50 + 2,80) × 3,5 = 6,30 × 3,5 = 22,05 Kč/m² jako sazba pro výpočet (na zastavěnou plochu jednotlivých podlaží se zvýšení aplikuje dle metodiky). U chaty: 11,00 × 2,0 = 22,00 Kč/m² (před případným zvýšením za podlaží). Procesní kroky: doložit plochy podlaží pro test prahu, počet obyvatel obce k rozhodnému dni, OZV, polohu v CHKO. Riziko: záměna obecního koeficientu (odst. 4–5) s místním koeficientem (§ 12), který se aplikuje až ve fázi výpočtu daně za výpočtový list (§ 11d odst. 5).
+
+**6. Varianty.** (a) Kdyby další podlaží měla plochu jen 120 m² (pod prahem 2/3 = 133,3 m²), zvýšení o 1,40 Kč by se neuplatnilo a sazba by zůstala 3,50 Kč × koeficient. (b) Kdyby šlo o podnikatelskou stavbu (skupiny f–h), platil by mírnější práh 1/3 zastavěné plochy a zvýšení by nastalo dříve.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „koeficient podle velikosti obce platí na všechny stavby".* Neobstojí: odst. 4 jej aplikuje jen na skupiny a), b) a j) (obytné budovy a ostatní jednotky). Na garáže, podnikatelské či rekreační stavby se nepoužije. Neutralizace: ověřit skupinu.
+- *Protiargument „lázeňská města do koeficientu 3,5 nepatří, mají málo obyvatel".* Mylné: zákon je v odst. 4 písm. f) výslovně jmenuje (Fr. Lázně, Luhačovice, Mariánské Lázně, Poděbrady) bez ohledu na počet obyvatel.
+- *Slabé místo:* test prahu plochy podlaží (2/3, resp. 1/3) vyžaduje přesné údaje o zastavěné ploše každého podlaží; u členitých staveb (ustoupená podlaží, podkroví) je posouzení sporné. Doporučuje se vyjít z projektové dokumentace a definic v odst. 3.
+
+#### H. Praktický závěr
+
+Sazba daně se určí podle skupiny (odst. 1), zvýší se o 1,40 Kč/m² za každé další nadzemní podlaží přesahující práh (2/3, resp. 1/3 u podnikání — odst. 2), u obytných budov a ostatních jednotek se násobí koeficientem podle velikosti obce (odst. 4), který obec může OZV zvýšit o kategorii (odst. 5); rekreační budovy v NP / zóně I. CHKO se násobí koeficientem 2,0 (odst. 6). Koeficient podle velikosti obce je nutné odlišit od místního koeficientu (§ 12).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je správně určena skupina a jí odpovídající základní sazba (odst. 1)?
+- [ ] Splňuje každé další nadzemní podlaží plošný práh pro zvýšení o 1,40 Kč (2/3, resp. 1/3)?
+- [ ] Jde o skupinu a), b) nebo j) (→ koeficient podle velikosti obce)? Jaký je počet obyvatel / status města?
+- [ ] Zvýšila obec koeficient OZV o jednu kategorii (odst. 5)? Jde o rekreační budovu v NP / zóně I. CHKO (→ × 2,0)?
+
+**Typicky rozhodné důkazy / podklady:** projektová dokumentace se zastavěnými plochami podlaží, údaj o počtu obyvatel obce, obecně závazná vyhláška obce, doklad o poloze v NP / zóně I. CHKO, zařazení do skupiny dle § 10a.
+
 ---
 
 ### § 11a — Zvýšení daně
@@ -538,6 +754,42 @@ U jednotky je výpočet složitější — zvýšení se odvíjí od **rozdílu 
 
 Odstavec 1 se nepoužije na zdanitelné stavby, na které se již aplikuje sazba podle písm. f–h (podnikání) — tedy na stavby, které jsou celé v podnikatelských skupinách. Bylo by totiž nadbytečné a duplicitní aplikovat zvýšení na stavby, jejichž celková sazba již odpovídá podnikatelskému využití.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Vlastník budovy obytného domu (skupina obytných budov) provozuje v přízemí kadeřnictví v nebytovém prostoru o podlahové ploše 60 m². Ve druhém nebytovém prostoru (40 m²) provozuje penzion — ubytovací služby. Zbytek domu slouží bydlení. Vedle toho vlastník jednotky (zařazené ve skupině ostatních jednotek, sazba 3,50 Kč) užívá nebytovou část jednotky o upravené ploše 30 m² k provozování advokátní kanceláře. Účastníci: vlastník-podnikatel, správce daně. Důkazy: výměry nebytových prostor, doklady o účelu užívání (živnostenské oprávnění, ubytovací činnost), zařazení do skupiny.
+
+**2. Právní otázka.** Jak se vypočte zvýšení daně podle § 11a u obytného domu s nebytovými prostory k podnikání a k ubytování a u jednotky s nebytovým prostorem k podnikání?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 11a odst. 1 (zvýšení u budovy obytného domu = plocha nebytového prostoru / místnosti k ubytování × 3,50 Kč; výjimky pro osvobozenou část a zemědělství/les/voda), odst. 2 (zvýšení u jednotky = upravená plocha × kladný rozdíl sazeb podnikatelské a vlastní jednotky), odst. 3 (nepoužije se na stavby se sazbou dle § 11 odst. 1 písm. f–h).
+- *Související ustanovení téhož zákona:* § 11 odst. 1 (sazby — vstup pro rozdíl sazeb v odst. 2), § 10a (skupiny), § 9 (osvobození — vyloučená osvobozená část), § 10 (podlahová plocha).
+- *Související předpisy:* živnostenský zákon (podnikání, ubytovací služby); zákon č. 586/1992 Sb. (obchodní majetek — souvislost se zařazením).
+- *Judikatura:* nosný závěr, že zvýšení daně podle § 11a je samostatným příplatkem za podnikatelské využití části jinak „obytné" nebo „ostatní" nemovitosti a brání obcházení vyšších podnikatelských sazeb; aplikuje se jen na tu část plochy, která podnikání reálně slouží a není osvobozena.
+
+**4. Subsumpce.** Obytný dům — kadeřnictví (60 m²): nebytový prostor užívaný k podnikání, nejde o zemědělství/les/vodu ani o osvobozenou část → zvýšení = 60 × 3,50 = 210 Kč. Penzion (40 m²): místnost využívaná k podnikání v oboru ubytování → zvýšení = 40 × 3,50 = 140 Kč. Celkové zvýšení u domu = 350 Kč. Jednotka — advokátní kancelář (30 m² upravené plochy): zvýšení dle odst. 2 = 30 × (sazba pro jednotku, jejíž převažující část slouží podnikání − sazba pro tuto jednotku). Je-li podnikatelská sazba 18,00 Kč a sazba ostatní jednotky 3,50 Kč, rozdíl = 14,50 Kč → zvýšení = 30 × 14,50 = 435 Kč.
+
+**5. Řešení.** U domu se k dani připočte zvýšení 350 Kč (kadeřnictví + penzion), u jednotky 435 Kč. Procesní kroky: vyčíslit výměry nebytových prostor a místností k ubytování, prokázat účel užívání, ověřit, že jde o sazby dle § 11 odst. 1. Riziko: pominutí výjimky pro osvobozenou část (pak zvýšení nenáleží) a chybné stanovení rozdílu sazeb u jednotky.
+
+**6. Varianty.** (a) Kdyby nebytový prostor sloužil podnikání v zemědělské prvovýrobě (lesním/vodním hospodářství), zvýšení by se podle odst. 1 neuplatnilo. (b) Kdyby celá stavba byla zařazena ve skupině f–h (podnikatelská), zvýšení podle odst. 1 by se nepoužilo vůbec (odst. 3), neboť stavba již nese plnou podnikatelskou sazbu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „zvýšení je dvojí zdanění téže plochy".* Neobstojí: jde o cílený příplatek nahrazující rozdíl mezi obytnou/ostatní a podnikatelskou sazbou; u jednotky je konstruován přímo jako rozdíl sazeb (odst. 2), takže nemůže přesáhnout plnou podnikatelskou daň. Neutralizace: poukázat na konstrukci „kladného rozdílu sazeb".
+- *Protiargument „aplikuje se i na čistě podnikatelské stavby".* Mylné: odst. 3 vylučuje použití odst. 1 na stavby se sazbou f–h. Riziko nesprávného souběhu plné sazby a zvýšení.
+- *Slabé místo:* určení, co je „nebytový prostor užívaný k podnikání" a „místnost k ubytování", závisí na faktickém užívání a může být sporné; osvobozené části je nutné vyloučit. Doporučuje se evidence účelu a výměr každé místnosti.
+
+#### H. Praktický závěr
+
+§ 11a zavádí zvýšení daně jako příplatek za podnikatelské (a ubytovací) využití nebytových prostor v obytných domech (odst. 1: plocha × 3,50 Kč) a v jednotkách (odst. 2: upravená plocha × kladný rozdíl podnikatelské a vlastní sazby), s výjimkami pro osvobozené části a zemědělské podnikání; na stavby celé v podnikatelských skupinách f–h se nepoužije (odst. 3).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o budovu obytného domu (odst. 1) nebo o jednotku (odst. 2)?
+- [ ] Je nebytový prostor / místnost užíván k podnikání nebo k ubytování a není osvobozenou částí?
+- [ ] Nejde o podnikání v zemědělské prvovýrobě, lesním nebo vodním hospodářství (→ bez zvýšení dle odst. 1)?
+- [ ] U jednotky: je správně stanoven kladný rozdíl sazeb (podnikatelská − vlastní)? Nejde o stavbu f–h (→ odst. 3 vylučuje odst. 1)?
+
+**Typicky rozhodné důkazy / podklady:** výměry nebytových prostor a místností, doklady o účelu užívání (živnostenské oprávnění, doklady o ubytovací činnosti), zařazení do skupiny dle § 10a, sazby dle § 11 odst. 1, údaj o osvobozené části (§ 9).
+
 ---
 
 ## Část čtvrtá — Výpočet daně
@@ -557,6 +809,42 @@ Odstavec 1 se nepoužije na zdanitelné stavby, na které se již aplikuje sazba
 Výpočtový list je základní **organizační jednotkou výpočtu daně z nemovitých věcí**, do nějž se sdružují nemovité věci (nebo jejich podíly) se srovnatelnými vlastnostmi. Jedna nemovitá věc nebo podíl na ní se uvádí vždy pouze na jednom výpočtovém listu — zabraňuje se duplicitnímu zdanění. Na jednom výpočtovém listu lze seskupit více nemovitostí, mají-li srovnatelné vlastnosti (tj. stejnou skupinu, stejný místní koeficient, stejné sazby apod.).
 
 Podrobnosti o rozdělení nemovitostí do výpočtových listů jsou delegovány na vyhlášku stanovující vzor daňového přiznání k dani z nemovitých věcí — zákon tak zachovává přiměřenou normativní pružnost, neboť praktické požadavky daňového přiznání se mohou v čase měnit.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Poplatník vlastní v obvodu jednoho finančního úřadu několik nemovitostí: dva stavební pozemky se stejnou sazbou a místním koeficientem, dále bytový dům a jednu rekreační chatu v jiné obci s odlišným koeficientem. Část pozemků vlastní ve spoluvlastnictví s další osobou. Při sestavování daňového přiznání řeší, jak nemovitosti rozdělit do výpočtových listů. Účastníci: poplatník, spoluvlastník, správce daně. Důkazy: výpis z katastru, údaje o sazbách a koeficientech jednotlivých nemovitostí, podíly spoluvlastnictví, vzor daňového přiznání dle vyhlášky.
+
+**2. Právní otázka.** Jak se nemovitosti a podíly na nich rozdělí do výpočtových listů podle § 11b — lze je seskupit na jeden list, nebo musí být na samostatných listech?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 11b odst. 1 (výpočet po jednotlivých výpočtových listech), odst. 2 (každá nemovitost/podíl jen na jednom listu; více nemovitostí na jednom listu, mají-li srovnatelné vlastnosti; podrobnosti stanoví vyhláška).
+- *Související ustanovení téhož zákona:* § 11c (daň z pozemků za list), § 11d (daň ze staveb za list), § 11e (součet za všechny listy), § 12 (místní koeficient — jeden z parametrů „srovnatelnosti").
+- *Související předpisy:* vyhláška upravující vzor daňového přiznání k dani z nemovitých věcí; daňový řád (přiznání).
+- *Judikatura:* nosný závěr, že výpočtový list je technicko-organizační jednotkou výpočtu, jejíž obsah je vázán na srovnatelnost vlastností nemovitostí, a teze, že jedna nemovitost nesmí být zahrnuta na více listech (zákaz duplicity).
+
+**4. Subsumpce.** Dva stavební pozemky se stejnou sazbou a místním koeficientem: mají srovnatelné vlastnosti → lze je uvést na jednom výpočtovém listu (odst. 2 věta třetí). Bytový dům a rekreační chata v jiné obci s odlišným koeficientem: nemají srovnatelné vlastnosti (jiná skupina, jiný koeficient) → patří na samostatné výpočtové listy. Spoluvlastnické pozemky: i ty se uvádějí na výpočtovém listu, ale s ohledem na podíl (návaznost na § 11c odst. 2); každý podíl jen jednou (odst. 2 věta druhá).
+
+**5. Řešení.** Poplatník seskupí oba srovnatelné stavební pozemky na jeden výpočtový list, bytový dům a chatu umístí na samostatné listy podle jejich vlastností a spoluvlastnické pozemky vykáže odděleně s podílem. Konkrétní rozdělení se řídí vyhláškou (vzor přiznání). Procesní kroky: ověřit shodu sazby, koeficientu a skupiny pro účel seskupení. Riziko: nesprávné sloučení nesrovnatelných nemovitostí vede k chybnému výpočtu daně za list.
+
+**6. Varianty.** (a) Kdyby chata stála ve stejné obci se shodným koeficientem a byla ve stejné skupině jako jiná stavba, bylo by možné je seskupit. (b) Kdyby poplatník omylem uvedl týž pozemek na dvou listech, šlo by o porušení zákazu duplicity (odst. 2 věta druhá) a správce daně by přiznání vyzval k opravě.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „na výpočtový list lze dát libovolné nemovitosti".* Neobstojí: odst. 2 dovoluje seskupit jen nemovitosti se srovnatelnými vlastnostmi; podrobnosti stanoví vyhláška. Neutralizace: porovnat sazbu, koeficient a skupinu.
+- *Protiargument „spoluvlastnický podíl se uvádí zvlášť od výpočtových listů".* Mylné: i podíl se uvádí na výpočtovém listu (a jen na jednom); zohlednění podílu nastává až ve výpočtu (§ 11c odst. 2, § 11d odst. 4).
+- *Slabé místo:* kritérium „srovnatelných vlastností" není v zákoně přesně definováno a je rozvedeno až vyhláškou; při změně vyhlášky se mění i členění. Doporučuje se vždy vyjít z aktuálního vzoru přiznání.
+
+#### H. Praktický závěr
+
+Výpočtový list je organizační jednotkou výpočtu daně z nemovitých věcí: každá nemovitost či podíl jen na jednom listu (zákaz duplicity), více nemovitostí na jednom listu jen při srovnatelných vlastnostech; podrobnosti rozdělení stanoví vyhláška o vzoru přiznání. Samotný výpočet daně za list probíhá v § 11c (pozemky) a § 11d (stavby a jednotky).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je každá nemovitost / podíl uvedena pouze na jednom výpočtovém listu?
+- [ ] Mají nemovitosti seskupené na jednom listu srovnatelné vlastnosti (skupina, sazba, koeficient)?
+- [ ] Jsou spoluvlastnické podíly vykázány odděleně s ohledem na podíl?
+- [ ] Odpovídá rozdělení aktuální vyhlášce o vzoru daňového přiznání?
+
+**Typicky rozhodné důkazy / podklady:** výpis z katastru, údaje o sazbách, skupinách a místních koeficientech jednotlivých nemovitostí, doklady o spoluvlastnických podílech, aktuální vzor daňového přiznání (vyhláška).
 
 ---
 
@@ -600,6 +888,42 @@ Jsou-li na výpočtovém listu pozemky ve spoluvlastnictví, výchozí daň z od
 > Daň z pozemků za VL = výchozí daň × místní koeficient (§ 12)
 
 Výsledek se opět zaokrouhluje na celé koruny nahoru. Místní koeficient (§ 12) je nástrojem samosprávy a pohybuje se v rozsahu 0,5 až 5,0.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Na jednom výpočtovém listu jsou pozemky poplatníka se shodnou sazbou; úhrn základů daně činí 4 000 m², sazba pro tyto pozemky je stanovena tak, že součin činí např. 8 000 Kč; úhrn nároků na osvobození je 1 200 Kč; inflační koeficient pro dané období je 1,2; místní koeficient v obci je 2,0. Poplatník vlastní pozemky v podílu 1/2. Účastníci: poplatník (spoluvlastník), správce daně. Důkazy: údaje o základech daně a sazbách, doklady o nárocích na osvobození, hodnota inflačního a místního koeficientu, podíl spoluvlastnictví.
+
+**2. Právní otázka.** Jak se podle § 11c krok za krokem vypočte daň z pozemků za tento výpočtový list, včetně zaokrouhlování, spoluvlastnického podílu a místního koeficientu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 11c odst. 1 (výchozí daň = (součin základů × sazba − úhrn osvobození) × inflační koeficient, s opakovaným zaokrouhlením na celé koruny nahoru), odst. 2 (× spoluvlastnický podíl), odst. 3 (× místní koeficient, zaokrouhlení nahoru).
+- *Související ustanovení téhož zákona:* § 11d (obdobný algoritmus pro stavby), § 11e (součet za listy), § 12 (místní koeficient 0,5–5,0), § 11f / část pátá (inflační koeficient), § 9/§ 4 (osvobození).
+- *Související předpisy:* daňový řád (vyměření, zaokrouhlování); vyhláška o vzoru přiznání.
+- *Judikatura:* nosný závěr, že zaokrouhlování na celé koruny nahoru v jednotlivých krocích je zákonem předepsanou technikou ve prospěch fisku a nelze je nahrazovat matematickým zaokrouhlením; a teze, že místní koeficient se aplikuje až na výchozí daň, nikoli na dílčí mezivýsledky před spoluvlastnickým podílem.
+
+**4. Subsumpce.** Krok 1 (odst. 1): součin základů × sazba = 8 000 Kč (zaokrouhleno nahoru); odečtení osvobození 1 200 Kč → 6 800 Kč (kladný rozdíl, zaokrouhleno nahoru); × inflační koeficient 1,2 = 8 160 Kč → výchozí daň 8 160 Kč (zaokrouhleno nahoru). Krok 2 (odst. 2): × spoluvlastnický podíl 1/2 = 4 080 Kč (zaokrouhleno nahoru). Krok 3 (odst. 3): × místní koeficient 2,0 = 8 160 Kč (zaokrouhleno nahoru) → daň z pozemků za tento výpočtový list.
+
+**5. Řešení.** Daň z pozemků za výpočtový list činí 8 160 Kč. Procesní kroky: dodržet pořadí operací a zaokrouhlení v každém kroku; nejprve odečíst osvobození, pak aplikovat inflační koeficient, poté podíl a nakonec místní koeficient. Riziko: prohození pořadí (např. aplikace místního koeficientu před spoluvlastnickým podílem) nebo jednorázové zaokrouhlení až na konci vede k jiné částce; rovněž záměna inflačního a místního koeficientu.
+
+**6. Varianty.** (a) Kdyby úhrn osvobození převýšil součin základů × sazba, byl by rozdíl záporný; zákon však pracuje s „kladným rozdílem", takže výchozí daň by byla 0 (nelze jít do záporu). (b) Kdyby pozemky nebyly ve spoluvlastnictví, krok 2 (odst. 2) by se vynechal a výchozí daň by se rovnou násobila místním koeficientem.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „zaokrouhlit stačí až výsledek".* Neobstojí: odst. 1–3 předepisují zaokrouhlení na celé koruny nahoru v každém mezikroku. Neutralizace: počítat striktně podle zákonné posloupnosti.
+- *Protiargument „místní koeficient se aplikuje na celý součin už v kroku 1".* Mylné: místní koeficient nastupuje až v odst. 3 (po podílu), inflační koeficient je naopak součástí kroku 1. Riziko záměny obou koeficientů.
+- *Slabé místo:* správné určení „úhrnu nároků na osvobození" a hodnoty inflačního koeficientu vyžaduje data z dalších ustanovení (§ 4, část pátá); chyba ve vstupech se promítne do celého výpočtu. Doporučuje se vstupy doložit a ověřit.
+
+#### H. Praktický závěr
+
+§ 11c stanoví třístupňový výpočet daně z pozemků za výpočtový list: (1) výchozí daň = (základy × sazba − osvobození) × inflační koeficient; (2) × spoluvlastnický podíl; (3) × místní koeficient — s povinným zaokrouhlením na celé koruny nahoru v každém kroku. Pořadí operací a odlišení inflačního a místního koeficientu je pro správnou částku rozhodující.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je v kroku 1 nejprve odečten úhrn osvobození a teprve poté aplikován inflační koeficient?
+- [ ] Je každý mezivýsledek zaokrouhlen na celé koruny nahoru?
+- [ ] Je u spoluvlastnictví aplikován spoluvlastnický podíl (odst. 2) před místním koeficientem?
+- [ ] Je v posledním kroku použit správný místní koeficient dle § 12 (nezaměněn s inflačním)?
+
+**Typicky rozhodné důkazy / podklady:** úhrn základů daně a sazby pro pozemky na listu, doklady o nárocích na osvobození, hodnota inflačního koeficientu (část pátá), místní koeficient dle § 12, výše spoluvlastnického podílu.
 
 ---
 
@@ -667,6 +991,42 @@ Algoritmus se opírá o:
 - Inflační koeficient dle § 11f (část pátá, nad rámec tohoto komentáře; viz [03-casti5-6-spolecna-sprava-dane.md](03-casti5-6-spolecna-sprava-dane.md)).
 - Místní koeficient dle § 12 (část pátá).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Na jednom výpočtovém listu jsou stavby téhož poplatníka se shodnou sazbou. Úhrn základů daně (zastavěná plocha) činí 500 m², sazba 18,00 Kč → součin 9 000 Kč. K tomu se vztahuje zvýšení daně podle § 11a (nebytové prostory k podnikání) v úhrnu 700 Kč a úhrn nároků na osvobození 1 000 Kč. Inflační koeficient je 1,2, místní koeficient 2,0, poplatník vlastní stavby v podílu 1/2. Účastníci: poplatník (spoluvlastník), správce daně. Důkazy: úhrn základů daně a sazba, výpočet zvýšení dle § 11a, doklady o osvobození, hodnoty obou koeficientů, podíl.
+
+**2. Právní otázka.** Jak se podle § 11d v pěti krocích vypočte daň ze staveb a jednotek za výpočtový list, kde do výpočtu vstupuje zvýšení daně, osvobození, inflační i místní koeficient a spoluvlastnický podíl?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 11d odst. 1 (výchozí daň před úpravami = úhrn základů × sazba), odst. 2 (+ úhrn zvýšení − úhrn osvobození), odst. 3 (× inflační koeficient), odst. 4 (× spoluvlastnický podíl), odst. 5 (× místní koeficient), vše se zaokrouhlením na celé koruny nahoru.
+- *Související ustanovení téhož zákona:* § 11 a § 10a (sazby a skupiny), § 11a (zvýšení daně), § 9 (osvobození), § 11c (obdobný algoritmus pro pozemky), § 11e (součet), § 12 (místní koeficient), část pátá (inflační koeficient).
+- *Související předpisy:* daňový řád (zaokrouhlování, vyměření); vyhláška o vzoru přiznání.
+- *Judikatura:* nosný závěr, že algoritmus výpočtu daně ze staveb je oproti pozemkům rozšířen o krok zohlednění zvýšení daně (§ 11a) a že pořadí kroků (úpravy → inflační koeficient → podíl → místní koeficient) je závazné; zaokrouhlení nahoru v každém kroku je zákonnou technikou.
+
+**4. Subsumpce.** Krok 1 (odst. 1): úhrn základů × sazba = 500 × 18,00 = 9 000 Kč (zaokrouhleno nahoru). Krok 2 (odst. 2): + zvýšení 700 − osvobození 1 000 = 8 700 Kč (výchozí daň před inflačním koeficientem). Krok 3 (odst. 3): × inflační koeficient 1,2 = 10 440 Kč (zaokrouhleno nahoru). Krok 4 (odst. 4): × spoluvlastnický podíl 1/2 = 5 220 Kč (zaokrouhleno nahoru). Krok 5 (odst. 5): × místní koeficient 2,0 = 10 440 Kč (zaokrouhleno nahoru) → daň ze staveb a jednotek za tento výpočtový list.
+
+**5. Řešení.** Daň ze staveb a jednotek za výpočtový list činí 10 440 Kč. Procesní kroky: nejprve připočíst zvýšení dle § 11a a odečíst osvobození, teprve poté aplikovat inflační koeficient, podíl a nakonec místní koeficient; v každém kroku zaokrouhlit nahoru. Riziko: opomenutí kroku zvýšení (§ 11a), který u staveb na rozdíl od pozemků do výpočtu patří; záměna pořadí inflačního a místního koeficientu.
+
+**6. Varianty.** (a) Kdyby nešlo o spoluvlastnictví, krok 4 (odst. 4) by se vynechal a výchozí daň by se rovnou násobila místním koeficientem. (b) Kdyby žádný nebytový prostor nebyl užíván k podnikání, úhrn zvýšení (§ 11a) by byl nulový a krok 2 by zahrnoval pouze odečtení osvobození.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „výpočet staveb je stejný jako u pozemků".* Neobstojí: § 11d má navíc krok zohlednění zvýšení daně (odst. 2) podle § 11a, který § 11c nezná. Neutralizace: do výpočtu staveb vždy zahrnout úhrn zvýšení.
+- *Protiargument „zaokrouhlit lze až nakonec".* Mylné: odst. 1, 3, 4, 5 předepisují zaokrouhlení na celé koruny nahoru v jednotlivých krocích. Riziko jiné výsledné částky.
+- *Slabé místo:* správnost závisí na bezchybném vyčíslení zvýšení (§ 11a) a osvobození (§ 9) i na hodnotě inflačního koeficientu; chyba ve vstupu se násobí dalšími kroky. Doporučuje se vstupy doložit a kontrolovat pořadí operací.
+
+#### H. Praktický závěr
+
+§ 11d stanoví pětistupňový výpočet daně ze staveb a jednotek za výpočtový list: (1) základy × sazba; (2) + zvýšení (§ 11a) − osvobození; (3) × inflační koeficient; (4) × spoluvlastnický podíl; (5) × místní koeficient — vždy se zaokrouhlením na celé koruny nahoru. Oproti pozemkům (§ 11c) přibývá krok zvýšení daně, jehož opomenutí vede k podhodnocení daně.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je v kroku 2 připočten úhrn zvýšení daně (§ 11a) a odečten úhrn osvobození (§ 9)?
+- [ ] Je inflační koeficient aplikován až po úpravách (krok 3), nikoli dříve?
+- [ ] Je u spoluvlastnictví aplikován podíl (krok 4) před místním koeficientem?
+- [ ] Je každý mezivýsledek zaokrouhlen na celé koruny nahoru a použit správný místní koeficient (§ 12)?
+
+**Typicky rozhodné důkazy / podklady:** úhrn základů daně a sazby pro stavby/jednotky na listu, výpočet zvýšení daně dle § 11a, doklady o nárocích na osvobození, hodnota inflačního koeficientu (část pátá), místní koeficient dle § 12, výše spoluvlastnického podílu.
+
 ---
 
 ### § 11e — Výpočet daně
@@ -696,5 +1056,41 @@ Tato finální agregace je záměrně jednoduchá — veškerá výpočtová kom
 - Posouzení povinnosti podat daňové přiznání (§ 13a).
 - Splatnost daně a splátkový kalendář (§ 15).
 - Minimální hranici předpisu (50 Kč — § 15 odst. 3).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Poplatník má v obvodu jednoho správce daně tři výpočtové listy: list A (pozemky, daň 8 160 Kč), list B (stavby a jednotky, daň 10 440 Kč) a list C (rekreační chata, daň 2 000 Kč). Současně řeší, zda celková daň zakládá povinnost podat přiznání a kdy je splatná. Účastníci: poplatník, správce daně. Důkazy: dílčí daně vypočtené za jednotlivé výpočtové listy podle § 11c a § 11d, údaje o předchozím vyměření (pro posouzení povinnosti přiznání).
+
+**2. Právní otázka.** Jak se podle § 11e stanoví celková daň z nemovitých věcí ze součtu dílčích daní za výpočtové listy a jaký má výsledná částka význam pro další povinnosti poplatníka?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 11e odst. 1 (daň z nemovitých věcí = daň z pozemků + daň ze staveb a jednotek), odst. 2 (daň z pozemků = úhrn daní z pozemků za všechny výpočtové listy), odst. 3 (daň ze staveb a jednotek = úhrn daní ze staveb a jednotek za všechny výpočtové listy).
+- *Související ustanovení téhož zákona:* § 11c a § 11d (výpočet dílčích daní za list), § 11b (výpočtové listy), § 13a (povinnost podat přiznání), § 15 (splatnost, splátky, minimální hranice 50 Kč), § 12 (místní koeficient).
+- *Související předpisy:* daňový řád (vyměření, placení daně); vyhláška o vzoru přiznání.
+- *Judikatura:* nosný závěr, že celková daň z nemovitých věcí je prostým součtem dílčích daní za jednotlivé výpočtové listy a obě složky (pozemky, stavby a jednotky) se sčítají odděleně podle odst. 2 a 3; veškerá výpočtová složitost je vyčerpána již na úrovni výpočtových listů.
+
+**4. Subsumpce.** Daň z pozemků (odst. 2): úhrn daní z pozemkových výpočtových listů = list A 8 160 Kč (jiný pozemkový list zde není) → 8 160 Kč. Daň ze staveb a jednotek (odst. 3): úhrn ze stavebních listů = list B 10 440 Kč + list C 2 000 Kč = 12 440 Kč. Daň z nemovitých věcí (odst. 1): 8 160 + 12 440 = 20 600 Kč. Tato částka převyšuje minimální hranici 50 Kč (§ 15 odst. 3) a je základem pro posouzení povinnosti přiznání (§ 13a) a splatnosti (§ 15).
+
+**5. Řešení.** Celková daň z nemovitých věcí činí 20 600 Kč. Procesní kroky: sečíst zvlášť všechny pozemkové dílčí daně a zvlášť všechny stavební dílčí daně, poté obě složky sečíst; ověřit povinnost přiznání a splatnost. Riziko: smíšení složek (sčítání pozemků a staveb na úrovni listů místo oddělené agregace dle odst. 2 a 3) je sice u prostého součtu nezávadné, ale narušuje strukturu výkazu; chybou by bylo opomenutí některého výpočtového listu.
+
+**6. Varianty.** (a) Kdyby celková daň nepřesáhla 50 Kč, neuložila by se (§ 15 odst. 3) a nepředepsala by se k placení. (b) Kdyby poplatník měl nemovitosti v obvodech více správců daně, výpočet by se prováděl odděleně pro každý obvod (samostatná daňová povinnost u každého finančního úřadu), nikoli jediným součtem za všechny obvody.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „daň z pozemků a ze staveb lze sčítat už na úrovni listů".* Z hlediska výsledku jde o totéž (součet je asociativní), ale zákon v odst. 2 a 3 odděluje obě složky; výkaz musí strukturu respektovat. Neutralizace: agregovat odděleně, pak sečíst.
+- *Protiargument „celková daň se ještě upravuje koeficienty".* Mylné: veškeré koeficienty (inflační, místní) i podíly a osvobození jsou již zohledněny v § 11c a § 11d; § 11e je čistý součet. Riziko dvojího započtení.
+- *Slabé místo:* správnost výsledku závisí na úplnosti a bezchybnosti všech dílčích výpočtů za výpočtové listy; § 11e sám žádnou chybu neodhalí. Doporučuje se zkontrolovat, že jsou zahrnuty všechny výpočtové listy poplatníka v daném obvodu.
+
+#### H. Praktický závěr
+
+§ 11e uzavírá výpočet: daň z nemovitých věcí = daň z pozemků (úhrn pozemkových výpočtových listů) + daň ze staveb a jednotek (úhrn stavebních výpočtových listů). Jde o prostý součet bez dalších úprav; veškerá složitost je vyčerpána v § 11c a § 11d. Výsledná daň je východiskem pro povinnost přiznání (§ 13a), splatnost (§ 15) a minimální hranici 50 Kč.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jsou zahrnuty všechny výpočtové listy poplatníka v obvodu daného správce daně?
+- [ ] Je daň z pozemků agregována odděleně (odst. 2) od daně ze staveb a jednotek (odst. 3)?
+- [ ] Je výsledná daň prostým součtem obou složek bez dalších koeficientů (ty jsou již v § 11c/§ 11d)?
+- [ ] Přesahuje výsledná daň minimální hranici 50 Kč (§ 15 odst. 3) a zakládá povinnost přiznání (§ 13a)?
+
+**Typicky rozhodné důkazy / podklady:** dílčí daně vypočtené za jednotlivé výpočtové listy (§ 11c, § 11d), přehled všech výpočtových listů poplatníka v obvodu správce daně, údaje pro posouzení povinnosti přiznání (§ 13a) a splatnosti (§ 15).
 
 ---
