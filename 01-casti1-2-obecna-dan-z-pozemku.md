@@ -20,6 +20,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 Afs 125/2005 - 40](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/230496) — 1. 3. 2007
+  > „daň z nemovitosti představuje přímou daň majetkového typu, u níž se daňová povinnost váže k vlastnictví nemovitého majetku. … Relevantní zákonná úprava (ustanovení § 1 zákona č. 338/1992 Sb., o dani z nemovitostí …) rozlišuje mezi daní z pozemků a daní ze staveb. Daň z pozemků se vztahuje na pozemky na území ČR vedené v katastru nemovitostí s výjimkou [§ 2 odst. 1 písm. a) cit. zákona] pozemků „v rozsahu půdorysu stavby pozemky zastavěné stavbami …“"
+
 #### Předmět zákona — dvě složky daně z nemovitých věcí (odst. 1)
 
 § 1 odst. 1 vymezuje předmět zákona jako zákon o **dani z nemovitých věcí**, která se skládá ze dvou samostatných daní:
@@ -242,6 +247,11 @@ Pro daň z nemovitých věcí platí, že rozhoduje katastr, ne realita: druh po
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [59 A 55/2012 - 38](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/558576) — 12. 11. 2012
+  > „[údaj o] výměře parcely a druhu pozemku a způsobu jeho využití je údajem katastru nemovitostí velmi důležitým, neboť se jedná o údaj podstatný … z těchto údajů o výměře a druhu pozemku a způsobu jejich využití vycházejí i orgány státní správy při své činnosti, např. orgány daňové [správy] pro daňové a poplatkové účely (dle § 2 odst. 1 zákona č. 338/1992 Sb., o dani z nemovitostí, jsou předmětem daně z pozemků pozemky vedené v katastru nemovitostí, když druh pozemku je údajem, od něhož se odvíjí sazba daně, a výměra pozemku se odráží v základu daně) …"
+
 #### Pozitivní vymezení předmětu daně — evidenční princip (odst. 1)
 
 Předmětem daně z pozemků jsou pozemky splňující **dvě kumulativní podmínky**:
@@ -346,6 +356,13 @@ Předmětem daně z pozemků jsou pozemky evidované v katastru na území ČR (
 > *- b) s pozemkem je příslušný hospodařit Státní pozemkový úřad nebo Úřad pro zastupování státu ve věcech majetkových.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 Afs 28/2005 - 55](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/240952) — 15. 2. 2006
+  > „daň z nemovitosti představuje přímou daň majetkového typu, u níž se daňová povinnost váže k vlastnictví nemovitého majetku. … daň z nemovitostí již svojí … povahou je konstruována tak, že jejím poplatníkem je vlastník nemovitosti (§ 3 odst. 1, § 8 odst. 1 zákona č. 338/1992 Sb.). … podle zákona z vlastnictví nemovitosti přímo vyplývá vznik hmotněprávní daňové povinnosti …"
+- *NSS* [2 Afs 175/2005 - 61](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/240200) — 2. 3. 2006
+  > „Předně je třeba konstatovat, že daň z nemovitostí již svojí … povahou je konstruována tak, že jejím poplatníkem je vlastník nemovitosti (§ 3 odst. 1, § 8 odst. 1 zákona č. 338/1992 Sb.). Skutečnost, že podle ustanovení § 13 a § 13b cit. zákona … se předmětná daň vyměřuje podle stavu k 1. lednu roku, na který je daň vyměřována, na tomto východisku nic nemění a nepředstavuje proto nic jiného než jeho technické provedení. Jinak řečeno, podle zákona z vlastnictví nemovitosti přímo vyplývá vznik hmotněprávní daňové povinnosti …"
 
 #### Obecné pravidlo — vlastník jako primární poplatník (odst. 1)
 
@@ -562,6 +579,13 @@ Poplatníkem daně z pozemků je zásadně vlastník (odst. 1), avšak zákon zn
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [65 Af 14/2020 - 72](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/700761) — 18. 1. 2022
+  > „ustanovení § 4 odst. 1 písm. k) zákona č. 338/1992 Sb., o dani z nemovitých věcí, … je třeba vykládat tak, že nachází-li se remízek, háj, větrolam či mez … na pozemku evidovaném v katastru nemovitostí jako ostatní plocha, je třeba zkoumat, zda plní ekologickou funkci, pro niž zákonodárce osvobození od daně z nemovitých věcí stanovil. Plní-li ji, nelze osvobození od daně nepřiznat jen proto, že se tyto prvky nenacházejí na pozemku evidovaném jako orná půda, nebo trvalý travní porost"
+- *NSS* [57 Af 6/2024 - 75](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/746486) — 2. 10. 2025
+  > „Z § 4 odst. 2 zákona č. 338/1992 Sb., vyplývá, že pozemkem tvořícím jeden funkční celek [se] zdanitelnou stavbou nebo zdanitelnou jednotkou se rozumí část pozemku nezbytně nutná k provozu a k plnění funkce této zdanitelné stavby nebo zdanitelné jednotky. … je nutno posoudit funkci nemovité věci, její schopnost sloužit … k jím vykonávané činnosti a zda k tomuto účelu skutečně sloužila"
+
 #### Systém osvobození — struktura a typy
 
 § 4 tvoří rozsáhlý katalog osvobození od daně z pozemků. Z hlediska právní povahy lze osvobození rozdělit na:
@@ -684,6 +708,11 @@ Splňuje-li podmínky osvobození pouze část pozemku, je osvobozena pouze tato
 > *(3) Základem daně u ostatní plochy, zastavěné plochy a nádvoří, stavebního pozemku a zpevněné plochy pozemku je skutečná výměra pozemku v m2 zjištěná k 1. lednu zdaňovacího období.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 As 145/2023 - 41](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/720597) — 18. 4. 2024
+  > „Jak vyplývá z § 5 zákona č. 338/1992 Sb., o dani z nemovitých věcí, základ daně u všech druhů pozemků je určen jejich skutečnou výměrou"
 
 #### Tři metody stanovení základu daně
 

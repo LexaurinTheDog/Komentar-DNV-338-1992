@@ -124,6 +124,13 @@ Inflační koeficient je každoroční automatický násobitel základů daně, 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 24/23](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-24-23_1) — nález, 18. 7. 2023
+  > „Možnost obcí zatížit vyšším zdaněním jen určité nemovitosti je rovněž naplněním ústavního principu samosprávy a subsidiarity politické moci (čl. 8 Ústavy). Jsou to totiž právě místní samosprávy, které - oproti „celostátnímu“ normotvůrci - mohou efektivně zajistit, aby výše zdanění nemovitostí skutečně odpovídala negativním externalitám, které jsou spojeny s nemovitostmi v konkrétním místě žití. Jinými slovy, možnost do jisté míry individualizovat výši daní z nemovitosti sleduje účel efektivně zohlednit nerovné zatížení společného prostoru a sdílené infrastruktury v obcích a městech"
+- *NSS* [22 Afs 257/2025 - 71](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/781293) — 17. 4. 2026
+  > „Nejvyšší správní soud se zabýval zejména tím, zda je opatření obecné povahy, kterým obec stanovila místní koeficient pro vymezené nemovité věci podle § 12 odst. 1 písm. b) zákona č. 338/1992 Sb., o dani z nemovitých věcí, přezkoumatelné. Konstatoval obecnou zdrženlivost při přezkumu tohoto opatření obecné povahy. Obec však musí odůvodnit, proč a jak vybrala konkrétní nemovitosti, aby šlo přezkoumat, že výběr není diskriminační nebo výsledkem libovůle"
+
 #### Obecný rámec místního koeficientu
 
 Místní koeficient je klíčovým nástrojem obecní daňové autonomie. Zákon ve znění účinném od 1. 1. 2024 (zákon č. 349/2023 Sb.) výrazně rozšířil a zpřesnil jeho podobu oproti dřívějšímu jednoduššímu systému jednoho obecního koeficientu. Nový systém umožňuje obcím územní i věcnou diferenciaci daňové zátěže v rámci svého území, přičemž zákon stanoví hierarchii koeficientů a pravidla pro případ jejich souběhu (odst. 4–8).
@@ -858,6 +865,11 @@ Přiznání k dani z nemovitých věcí se podává do 31. ledna zdaňovacího o
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 Afs 48/2018 - 44](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/646637) — 5. 6. 2018
+  > „Podle § 13b odst. 1 zákona o dani z nemovitých věcí daň z nemovitých věcí se vyměřuje za zdaňovací období podle stavu k 1. lednu roku, na který je daň vyměřována. Proto i v případě nepodání či opožděném podání daňového tvrzení po změně okolností rozhodných pro vyměření daně je správce daně oprávněn celkovou daň z nemovitých věcí za aktuální zdaňovací období vyměřit a nemůže v takovém případě daňovou povinnost doměřit ve výši rozdílu mezi nově vyměřenou daní a daní stanovenou v předchozím zdaňovacím období"
+
 #### Rozhodný okamžik pro stanovení daně (odst. 1)
 
 Daň se stanoví podle stavu k **1. lednu** zdaňovacího období. Tato norma doplňuje § 12c (zdaňovacím obdobím je kalendářní rok) a je klíčová pro určení okruhu poplatníků a předmětu daně. Správce daně zjišťuje stav katastru nemovitostí, způsob využití a vlastnické vztahy výhradně k tomuto datu — pozdější změny v průběhu roku na výslednou daň nemají vliv.
@@ -1074,6 +1086,11 @@ Daň z nemovitých věcí je splatná ve dvou splátkách (zemědělci 31. 8. a 
 > *Má-li poplatník povinnost podat daňové přiznání nebo dodatečné daňové přiznání a podá-li je po lhůtě pro jejich podání, aniž by byl správcem daně k tomu vyzván, nevzniká poplatníkovi povinnost uhradit pokutu za opožděné tvrzení daně.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 Af 76/2015 - 28](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/517780) — 14. 7. 2017
+  > „Dalším hmotně právním předpisem moderujícím pokutu dle § 250 daňového řádu je ustanovení § 15a zákona č. 338/1992 Sb. o dani z nemovitých věcí (…). V tomto případě je vyžadována absence upozornění ze strany správce daně, rovněž se však jedná o situaci, kdy sám zákonodárce si uvědomuje tvrdost sankce v některých případech"
 
 #### Úleva jako výjimka z obecného režimu DŘ
 

@@ -28,6 +28,15 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 As 62/2008 - 59](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/616411) — 11. 9. 2009
+  > „Ústavní soud přitom konstatoval, že „pojmem stavba ve smyslu § 7 odst. 1 zákona č. 338/1992 Sb., o dani z nemovitostí, se rozumí stavba jako nemovitá věc ve smyslu občanského zákoníku. Sama skutečnost, že bylo na stavbu vydáno kolaudační rozhodnutí, nedostačuje k závěru, že se jedná o stavbu, která je předmětem daně ze staveb. Vždy je zapotřebí zkoumat, zda se jedná o nemovitou stavbu ve smyslu občanskoprávním“"
+- *ÚS* [II.ÚS 596/01](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-596-01) — usnesení, 3. 6. 2003
+  > „Z negativního vymezení pojmu stavba v ustanovení § 7 odst. 2 cit. zák. je zřejmé, že zákonodárce měl při vymezení předmětu daně ze staveb na mysli i stavby bez obvodového pláště. V opačném případě by některé z nich … výslovně z předmětu daně nevyloučil. Pokud by se totiž § 7 odst. 1 cit. zák. na stavby bez obvodového pláště nevztahoval, nebylo by třeba ani uvedené negativní enumerace, neboť ta by se stala zjevně nadbytečná"
+- *NSS* [9 Afs 195/2023 - 43](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/715355) — 19. 10. 2023
+  > „Podstatné není ani to, jak je stavba daněna, neboť předmět daně ze staveb je konstruován jinak než předmět místního poplatku za komunální odpad [viz § 7 odst. 1 zákona č. 338/1992 Sb., o dani z nemovitých věcí …], přičemž faktické užívání stavby je u této daně relevantní až z hlediska určení sazby daně (§ 11 zákona o dani z nemovitých věcí …)"
+
 #### Základní struktura předmětu daně
 
 Zákon definuje předmět daně ze staveb a jednotek prostřednictvím dvou základních kategorií — **zdanitelné stavby** a **zdanitelné jednotky** — a kumulativně vyžaduje, aby se nacházely na území České republiky. Územní podmínka je autonomním prvkem daňové jurisdikce odlišným od soukromoprávního statusu nemovitosti: výhradním kritériem je fyzická poloha na českém území, nikoli státní příslušnost vlastníka.
@@ -129,6 +138,11 @@ Předmětem daně ze staveb a jednotek je vždy jen dokončená nebo užívaná 
 > *- b) je se zdanitelnou stavbou nebo zdanitelnou jednotkou příslušný hospodařit Státní pozemkový úřad nebo Úřad pro zastupování státu ve věcech majetkových.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [15 Af 53/2018 - 35](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/659445) — 21. 4. 2021
+  > „[P]oplatníkem daně z nemovitých věcí podle § 3 odst. 1 a § 8 odst. 1 zákona č. 338/1992 Sb., o dani z nemovitých věcí, je skutečný vlastník nemovité věci, nikoliv pouze osoba evidovaná v katastru nemovitostí, a to i tehdy, je-li existence vlastnického práva deklarována zpětně, s účinky ex tunc"
 
 #### Základní pravidlo — vlastník (odst. 1)
 
@@ -292,6 +306,11 @@ Poplatníkem je zásadně vlastník (odst. 1). U státního majetku jím je subj
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 Afs 222/2025 - 64](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/768998) — 23. 1. 2026
+  > „Osvobození od daně podle § 9 odst. 1 ZDNV je obecně spojeno s podmínkou, že určitá nemovitá věc slouží konkrétně vymezenému veřejně prospěšnému účelu. … Některé litery § 9 odst. 1 ZDNV je třeba interpretovat v kontextu souvisejících právních předpisů, jež upravují tu kterou oblast veřejně prospěšné činnosti"
+
 #### Přehled osvobozujících titulů
 
 Zákon v § 9 odst. 1 uvádí rozsáhlý, v zásadě taxativní výčet osvobozujících titulů označených písmeny a) až w) — přičemž zákonodárce zachoval mezery v abecedním pořadí (chybí h, q, s). Tato mezerovitost je důsledkem historického vývoje zákona a nezakládá interpretační pochybnosti; každé chybějící písmeno odpovídá původnímu ustanovení, které bylo v průběhu novelizací zrušeno bez přečíslování.
@@ -396,6 +415,11 @@ Osvobozena je zásadně pouze ta část stavby nebo jednotky, která podmínky s
 > *(5) Podlahová plocha zdanitelné jednotky pro účely daně z nemovitých věcí nezahrnuje podlahovou plochu společných částí nemovité věci v rozsahu podílu na nich, který je zahrnut v jednotce.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 Afs 125/2005 - 40](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/230496) — 1. 3. 2007
+  > „Ustanovení § 10 zákona č. 338/1992 Sb. je totiž nutno logicky a systematicky vykládat tak, že u zpevněných ploch je možno s přihlédnutím k negativnímu vymezení předmětu daně v ustanovení § 7 odst. 2 cit. zákona stanovit základ daně dle ustanovení § 10, které dopadá i na daný případ"
 
 #### Základ daně u zdanitelné stavby — zastavěná plocha (odst. 1–2)
 
@@ -615,6 +639,11 @@ Zařazení do jedné z osmi skupin (§ 10a) určuje sazbu daně (§ 11). Rozhodu
 > *(6) U zdanitelné stavby zařazené ve skupině rekreačních budov umístěné v národním parku nebo v zóně I. chráněné krajinné oblasti se sazba daně podle odstavce 1 písm. c) a d), případně zvýšená podle odstavce 2, násobí koeficientem 2,0.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [65 Af 9/2017 - 37](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/461052) — 29. 3. 2018
+  > „Otázkou posuzování faktického stavu (v souvislosti s daní z nemovitých věcí) se zabýval rozšířený senát Nejvyššího správního soudu v rozsudku ze dne 15. 3. 2016, čj. 2 Afs 153/2014-71, a vyslovil, že „pro účely stanovení sazby daně z nemovitých věcí (§ 11 zákona č. 338/1992 Sb., o dani z nemovitých věcí) je rozhodné skutečné užívání nemovité věci“. Podle rozšířeného senátu je významné, k jakému účelu je stavba užívána, nikoli její právní (formální) určení"
 
 #### Základní sazby podle skupin (odst. 1)
 
