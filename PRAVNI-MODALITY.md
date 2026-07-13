@@ -135,3 +135,184 @@ Pro výklad konkrétního ustanovení proto nestačí vyhledat samotný normativ
 | Zmocnění | určí | [§ 12d](https://e-sbirka.gov.cz/sb/1992/338#par_12d) |
 | Oprávnění a povinnost | povinnost; mají právo; má právo; musí | [§ 1](https://e-sbirka.gov.cz/sb/1992/338#par_1); [§ 3](https://e-sbirka.gov.cz/sb/1992/338#par_3); [§ 8](https://e-sbirka.gov.cz/sb/1992/338#par_8); [§ 9](https://e-sbirka.gov.cz/sb/1992/338#par_9) |
 | Domněnky, fikce a účinkové konstrukce | hledí se | [§ 1a](https://e-sbirka.gov.cz/sb/1992/338#par_1a); [§ 4](https://e-sbirka.gov.cz/sb/1992/338#par_4); [§ 6](https://e-sbirka.gov.cz/sb/1992/338#par_6); [§ 9](https://e-sbirka.gov.cz/sb/1992/338#par_9); [§ 11](https://e-sbirka.gov.cz/sb/1992/338#par_11) |
+
+---
+
+<!-- VYKLAD-RIHA-MODALITY -->
+## Systematické zpracování právních modalit (rozšířený výklad)
+
+> Rozšířený, systematicky členěný rozbor modalit v předpisu zákon č. 338/1992 Sb., o dani z nemovitých věcí — doplňuje výše uvedený přehled. Klasifikace je provedena na doslovném znění citovaném v repu; judikatorní ilustrace pocházejí výhradně z místních zdrojů (složka [judikatura/](judikatura/README.md)). Souvislost se zásadami viz [ZASADY.md](ZASADY.md).
+
+### Teorie právních modalit — nauka
+
+Právní modality jsou základní stavební jednotky normativního jazyka. Nauka rozlišuje modality **objektivní** (deontické), které vyjadřují, jak právo hodnotí určité jednání z hlediska práva samotného, a modality **subjektivní**, které popisují právní postavení konkrétního subjektu. Objektivními modalitami jsou **příkaz** (jednání je uloženo — musí být konáno), **zákaz** (jednání je zapovězeno — nesmí být konáno) a **dovolení** (jednání je ponecháno na vůli adresáta — může, ale nemusí být konáno). Zvláštní postavení mezi objektivními modalitami zaujímá **zmocnění**, tj. kompetenční norma, jež nezavazuje k určitému chování, nýbrž zakládá pravomoc (způsobilost) orgánu vytvořit svým aktem další normy či individuální rozhodnutí. V dani z nemovitých věcí má zmocnění mimořádnou váhu, neboť konstruuje daňovou autonomii obce (obecně závazné vyhlášky, opatření obecné povahy, místní a velikostní koeficienty) i prostor pro prováděcí vyhlášky ústředních orgánů.
+
+Subjektivní modality vystupují v korelativních dvojicích **oprávnění — povinnost**. Oprávnění (subjektivní právo, nárok, výhoda) jednoho subjektu zpravidla odpovídá povinnost subjektu jiného; korelativita znamená, že obě strany téhož právního vztahu nelze vykládat izolovaně. U daní má subjektivní povinnost dominantní postavení: nositelem daňové povinnosti je poplatník, jehož postavení je odvozeno od objektivně vymezené skutkové podstaty (vlastnictví nemovité věci). Osvobození od daně naopak působí jako výhoda — negativní výseč z jinak dané povinnosti, kterou lze v teorii pojmout jako oprávnění poplatníka domáhat se nezdanění, resp. jako mez zákonodárcem uložené povinnosti.
+
+**Normativní výrazy** jsou jazykové ukazatele modality. Příkaz signalizují obraty „je povinen", „musí", „uplatní", „zařadí se", „činí", „násobí se"; zákaz obraty „nesmí", „se nepoužije", „nepřihlíží se", „se nepřihlíží"; dovolení modální „může"; zmocnění formulace „upraví vyhláškou", „stanoví obecně závaznou vyhláškou", „lze stanovit". U dani z nemovitých věcí je typické, že tentýž slovní obrat („obec může") může nést jak modalitu dovolení (volba v mezích vlastní působnosti), tak modalitu zmocnění (výkon delegované normotvorné pravomoci) — rozlišení je věcí obsahu, nikoli jen slovního znění.
+
+**Domněnky a fikce** jsou zvláštní normativní techniky pracující s pravdivostí skutkových předpokladů. Domněnka (praesumptio) váže k jedné skutečnosti závěr o skutečnosti jiné; je **vyvratitelná** (připouští důkaz opaku — typicky obrat „má se za to"), nebo **nevyvratitelná** (opak dokázat nelze — „platí, že"). **Fikce** (fictio) prohlašuje za existující něco, o čem je známo, že tomu tak není (obrat „hledí jako na nemovitou věc", „hledí se, jako by") — zde vůbec nejde o pravděpodobnostní úsudek, nýbrž o normativní ztotožnění nesourodého. Rozdíl má procesní dosah: vyvratitelná domněnka přesouvá **důkazní břemeno** na toho, kdo tvrdí opak, kdežto fikce ani nevyvratitelná domněnka dokazování opaku nepřipouštějí. Daň z nemovitých věcí je na fikcích a domněnkách postavena v míře pro daňové právo příznačné — daňově překlenuje soukromoprávní zásadu superficies solo cedit, formálně přebírá údaje katastru a stanoví strop meziročního růstu inflačního koeficientu.
+
+### Příkaz
+
+Příkazová modalita ukládá adresátovi konat určité, přesně vymezené jednání; její porušení zakládá prodlení, sankci nebo jiný nepříznivý následek. V dani z nemovitých věcí příkazy strukturují především **procesní povinnosti poplatníka** (podání daňového přiznání ve lhůtě, uplatnění nároku na osvobození, splatnost ve splátkách) a **imperativní pravidla výpočtu daně** (zdvojnásobení sazby v chráněných územích, zvýšení daně za nebytový prostor, jednoznačné zařazení do skupiny s nejvyšší sazbou). Příkaz zde často doprovází kalkulační automatismus — zákon nedává správci daně ani poplatníku uvážení, nýbrž stanoví, co se povinně „zařadí", čím se „násobí" nebo co „činí".
+
+Vedle poplatníka a správce daně jsou příkazy adresovány i **veřejnoprávním normotvůrcům a orgánům dozoru**: obec, jež využije živelní osvobození, musí vydat vyhlášku či opatření obecné povahy tak, aby nabyly účinnosti v pevném termínu, a Ministerstvo vnitra je povinno bez zbytečného odkladu vyrozumět správce daně o dozorových krocích. Časová určenost je pro tuto modalitu příznačná: příkaz je zpravidla svázán s konkrétním datem (31. ledna, 31. května, 30. listopadu, 31. března), jehož nedodržení má samostatné právní následky.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 13a odst. 1 | je poplatník povinen podat | „Daňové přiznání je poplatník povinen podat příslušnému správci daně do 31. ledna zdaňovacího období." | Základní procesní povinnost tvrzení daně vázaná na stav k 1. lednu. |
+| § 4 odst. 4 | uplatní | „Poplatník daně uplatní nárok na osvobození od daně z pozemků podle odstavce 1 písm. d) až h), j), k), m), p), r), u), w) a y) v daňovém přiznání." | U vyjmenovaných osvobození je nutné je aktivně uplatnit, jinak se ex lege neprosadí. |
+| § 15 odst. 1 písm. b) | je splatná ve splátkách nejpozději do | „u ostatních poplatníků daně ve dvou stejných splátkách, a to nejpozději do 31. května a do 30. listopadu zdaňovacího období" | Splatnostní režim se dvěma pevnými termíny, jejichž zmeškání zakládá prodlení. |
+| § 10a odst. 2 | zařadí se | „zařadí se do skupiny s nejvyšší sazbou daně." | Rozhodovací pravidlo pro nejednoznačné případy shodného poměru ploch. |
+| § 11 odst. 6 | násobí koeficientem 2,0 | „se sazba daně podle odstavce 1 písm. c) a d), případně zvýšená podle odstavce 2, násobí koeficientem 2,0." | Povinné zdvojnásobení sazby u rekreačních budov v národním parku či zóně I. CHKO. |
+| § 11a odst. 1 | činí součin | „Zvýšení daně ze staveb a jednotek za budovu obytného domu s nebytovým prostorem užívaným k podnikání" | Příplatek za podnikatelské využití nebytových prostor v obytných domech. |
+| § 11b odst. 2 | se uvádí pouze na jednom výpočtovém listu | „Nemovitá věc a podíl na ní se uvádí pouze na jednom výpočtovém listu." | Organizační pravidlo bránící duplicitnímu zdanění téže nemovitosti. |
+| § 16a odst. 4 | vyrozumí | „Ministerstvo vnitra bez zbytečného odkladu vyrozumí správce daně, v jehož obvodu územní působnosti se nachází dotčená obec" | Informační povinnost dozorového orgánu vůči správci daně o osudu OZV. |
+| § 17a odst. 3 | musí být vydány | „Obecně závazná vyhláška nebo opatření obecné povahy podle odstavce 1 musí být vydány tak, aby nabyly účinnosti do 31. března" | Nepřekročitelný časový rámec účinnosti aktu o živelním osvobození. |
+
+Judikatorní ilustrace k příkazové logice stavové daně (příkaz vyměřit podle stavu k rozhodnému dni, bez ohledu na opožděné tvrzení):
+
+- *NSS* [4 Afs 48/2018 - 44](judikatura/NSS-4-Afs-48-2018-44.md) — rozsudek z 5. 6. 2018, k § 13b
+  > „Podle § 13b odst. 1 zákona o dani z nemovitých věcí daň z nemovitých věcí se vyměřuje za zdaňovací období podle stavu k 1. lednu roku, na který je daň vyměřována. Proto i v případě nepodání či opožděném podání daňového tvrzení po změně okolností rozhodných pro vyměření daně je správce daně oprávněn celkovou daň z nemovitých věcí za aktuální zdaňovací období vyměřit a nemůže v takovém případě daňovou povinnost doměřit ve výši rozdílu mezi nově vyměřenou daní a daní stanovenou v předchozím zdaňovacím období"
+
+### Zákaz
+
+Zákazová modalita zapovídá určité jednání nebo přikazuje k určité skutečnosti nepřihlížet; funkčně vylučuje právní účinek toho, co by jinak nastal. V dani z nemovitých věcí se zákaz projevuje ve dvou typických podobách. Za prvé jako **negativní vymezení aplikace** — pravidlo „se nepoužije" vylučuje souběh dvou zatížení téže plochy (zvýšení daně vs. podnikatelská sazba) a chrání před dvojím zdaněním. Za druhé jako **temporální filtr** — obraty „nepřihlíží se" a „se nepřihlíží" znehodnocují právní relevanci skutečností, které nastaly mimo zákonem vymezené časové okno (změny v průběhu období, opožděně vydané vyhlášky, retroaktivní úpravy).
+
+Zákazy tak nesou v tomto předpisu především funkci **stability a předvídatelnosti**: stavový charakter daně (rozhodný je stav k 1. lednu), prekluzivní hranice pro obecní normotvorbu (1. října předchozího roku) a zákaz pravé retroaktivity ustanovení obecně závazných vyhlášek chrání poplatníka i správce daně před nekoncepčními zásahy uprostřed zdaňovacího období. Samostatnou podmnožinou je zákaz překročení limitů veřejné podpory u osvobození ve zvýhodněné průmyslové zóně, jenž podřizuje daňovou úlevu právu veřejné podpory.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 12c | se nepřihlíží | „Ke změnám skutečností rozhodných pro daň, které nastanou v průběhu zdaňovacího období, se nepřihlíží." | Stavový charakter daně — průběžné změny (prodej, demolice) se pro daný rok ignorují. |
+| § 11a odst. 3 | se nepoužije | „Odstavec 1 se nepoužije na zdanitelnou stavbu, na kterou se použije sazba daně podle § 11 odst. 1 písm. f) až h)." | Vylučuje duplicitní zdanění staveb již celých zdaněných podnikatelskou sazbou. |
+| § 16a odst. 1 | nepřihlíží se k | „Pro účely daně z nemovitých věcí se ve zdaňovacím období nepřihlíží k obecně závazné vyhlášce, která nabyla platnosti po 1. říjnu kalendářního roku" | Prekluzivní lhůta pro obecní normotvorbu zajišťující stabilitu daňové správy. |
+| § 16a odst. 3 | nepřihlíží se | „se pro účely daně z nemovitých věcí ve vztahu k tomuto zdaňovacímu období nepřihlíží. To platí obdobně i pro změnu takového ustanovení." | Zákaz zpětného působení ustanovení OZV — projev zákazu pravé retroaktivity. |
+| § 12d odst. 1 | nesmí překročit | „Osvobození od daně z nemovitých věcí ve zvýhodněné průmyslové zóně nesmí ve zdaňovacím období překročit míru veřejné podpory" | Podřizuje daňové osvobození limitům práva veřejné podpory a výši investiční pobídky. |
+
+### Dovolení
+
+Dovolovací modalita ponechává určité jednání na vůli adresáta: „může" znamená, že jednání je právem aprobováno, avšak nikoli uloženo. V dani z nemovitých věcí je dovolení nositelem **daňové autonomie obce** a **individualizace daňové zátěže**. Klíčovým nástrojem je místní koeficient, jímž obec může v zákonném pásmu (0,5 až 5,0) diferencovat zatížení nemovitostí ve svém území; sem patří i možnost obce zvýšit velikostní koeficient u stavebních pozemků. Druhým okruhem je **sociálně-solidární úleva** — obec může při řešení důsledků mimořádné (živelní) události zcela nebo zčásti osvobodit dotčené nemovitosti, a to i pro již uplynulé zdaňovací období.
+
+Rozlišení dovolení a zmocnění je zde jemné a věcné: tam, kde obec „může" volit z předem daných zákonných variant koeficientu, jde spíše o dovolenou volbu v mezích vlastní působnosti; tam, kde „upraví vyhláškou" nebo „stanoví obecně závaznou vyhláškou", převažuje kompetenční (zmocňovací) povaha. Dovolení tak v předpisu funguje jako pružný nástroj, jenž státu umožňuje ponechat citlivé rozhodnutí o intenzitě zdanění tomu, kdo je nejblíže místním poměrům.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 12 odst. 1 | může obec stanovit | „Místní koeficient ve výši od 0,5 do 5,0, a to s přesností nejvýše na jedno desetinné místo, může obec stanovit" | Klíčový nástroj obecní daňové autonomie — diferenciace zátěže v zákonném pásmu. |
+| § 6 odst. 4 | obec může … zvýšit | „Obec může obecně závaznou vyhláškou koeficient podle odstavce 3 zvýšit o jednu kategorii" | Možnost obce zvýšit velikostní koeficient u stavebních pozemků. |
+| § 17a odst. 1 | může osvobodit | „Obec může při řešení důsledků mimořádné, zejména živelní, události nejdéle na dobu 5 let zcela nebo částečně osvobodit od daně z nemovitých věcí" | Přechodná daňová úleva pro nemovitosti postižené mimořádnou událostí. |
+| § 17a odst. 2 | lze přijmout | „Osvobození od daně z nemovitých věcí lze přijmout též pro již uplynulé zdaňovací období." | Vědomá výjimka ze zákazu retroaktivity odůvodněná mimořádnou situací. |
+
+Judikatorní ilustrace k ústavnímu zakotvení obecní možnosti individualizovat daňovou zátěž:
+
+- *ÚS* [Pl.ÚS 24/23](judikatura/US-Pl-S-24-23.md) — nález z 18. 7. 2023, k § 11 a § 12
+  > „Možnost obcí zatížit vyšším zdaněním jen určité nemovitosti je rovněž naplněním ústavního principu samosprávy a subsidiarity politické moci (čl. 8 Ústavy). Jsou to totiž právě místní samosprávy, které - oproti „celostátnímu“ normotvůrci - mohou efektivně zajistit, aby výše zdanění nemovitostí skutečně odpovídala negativním externalitám, které jsou spojeny s nemovitostmi v konkrétním místě žití."
+
+### Zmocnění
+
+Zmocnění je kompetenční (organizační) norma: nezavazuje k chování, nýbrž zakládá pravomoc vytvořit další normy nebo individuální akty. V dani z nemovitých věcí zmocnění tvoří **dvě normotvorné roviny**. První je rovina prováděcích vyhlášek ústředních orgánů — Ministerstvo zemědělství v dohodě s Ministerstvem financí vydává seznam katastrálních území a průměrné ceny zemědělských pozemků, jež jsou nezbytným početním vstupem pro základ daně. Druhou je rovina **obecní normotvorby** — obec je zmocněna obecně závaznou vyhláškou upravit koeficienty i fakultativní osvobození ostatních ploch.
+
+Zvláštní podskupinu tvoří **kompetenční normy adresované správci daně**: ustanovení „daň lze stanovit platebním výměrem, dodatečným platebním výměrem nebo hromadným předpisným seznamem" vymezuje nástroje vyměřovací činnosti, včetně zvláštního hromadného předpisného seznamu, který se neodůvodňuje. Přechodné ustanovení o prvním vyměření daně na rok 1993 pak vymezuje časovou působnost celého zákona. Zmocnění je tedy modalitou, jež propojuje daňovou hmotu s aktéry, kteří ji svými akty konkretizují.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 17 | upraví vyhláškou | „Ministerstvo zemědělství České republiky v dohodě s ministerstvem financí České republiky upraví vyhláškou seznam katastrálních území" | Delegace vydání prováděcí vyhlášky s průměrnými cenami — vstup pro výpočet základu daně. |
+| § 5 odst. 1 | ve vyhlášce vydané na základě zmocnění | „průměrnou cenou pozemku stanovenou na 1 m2 ve vyhlášce vydané na základě zmocnění v § 17 tohoto zákona" | Odkaz výpočtu základu daně u zemědělských pozemků na prováděcí vyhlášku. |
+| § 11 odst. 5 | obec může obecně závaznou vyhláškou | „Obec může obecně závaznou vyhláškou koeficient podle odstavce 4 zvýšit o jednu kategorii" | Kompetenční norma opravňující obec upravit koeficient pro obytné budovy a ostatní jednotky. |
+| § 4 odst. 1 písm. z) | jestliže tak obec stanoví obecně závaznou vyhláškou | „ostatní plochy s následujícím způsobem využití, jestliže tak obec stanoví obecně závaznou vyhláškou" | Zmocnění obce fakultativně osvobodit vybrané ostatní plochy. |
+| § 13b odst. 2 | lze stanovit | „Daň z nemovitých věcí lze stanovit platebním výměrem, dodatečným platebním výměrem nebo hromadným předpisným seznamem" | Vymezení nástrojů správce daně, včetně neodůvodňovaného hromadného předpisného seznamu. |
+| § 20 | daň se vyměří | „Daň z nemovitostí se vyměří podle tohoto zákona poprvé na rok 1993 podle stavu k 1. lednu 1993." | Vstupní bod nové úpravy — vymezuje časovou působnost zákona. |
+
+Judikatorní ilustrace k přezkumu výkonu obecní normotvorné pravomoci (opatření obecné povahy o místním koeficientu):
+
+- *NSS* [22 Afs 257/2025 - 71](judikatura/NSS-22-Afs-257-2025-71.md) — rozsudek z 17. 4. 2026, k § 12
+  > „Nejvyšší správní soud se zabýval zejména tím, zda je opatření obecné povahy, kterým obec stanovila místní koeficient pro vymezené nemovité věci podle § 12 odst. 1 písm. b) zákona č. 338/1992 Sb., o dani z nemovitých věcí, přezkoumatelné. Konstatoval obecnou zdrženlivost při přezkumu tohoto opatření obecné povahy. Obec však musí odůvodnit, proč a jak vybrala konkrétní nemovitosti, aby šlo přezkoumat, že výběr není diskriminační nebo výsledkem libovůle"
+
+### Oprávnění a povinnost
+
+Oprávnění a povinnost jsou korelativní subjektivní modality: to, co je pro jeden subjekt výhodou či nárokem, bývá pro druhý zatížením. V dani z nemovitých věcí je **povinnost** dominantní a strukturotvorná — nositelem daňové povinnosti je poplatník, jímž je zásadně vlastník nemovité věci (§ 3 odst. 1, § 8 odst. 1). Od tohoto pravidla se odvíjejí odchylky (nájemce či pachtýř jako poplatník ve vyjmenovaných případech), územní štěpení daňové povinnosti podle obvodů správců daně (§ 1 odst. 2) i pasivní solidarita spoluvlastníků (§ 13 odst. 1). Vedle hmotněprávní povinnosti platit daň stojí povinnosti procesní (podat dodatečné přiznání, uplatnit nárok, zaslat správci daně stejnopis opatření obecné povahy).
+
+**Oprávnění** (výhoda) se v předpisu projevuje zejména jako **osvobození od daně** — negativní výseč z jinak dané povinnosti, jež snižuje daňovou zátěž ve veřejném, sociálním a ekologickém zájmu (§ 4 odst. 1, § 9 odst. 1). Zvláštním oprávněním je vyloučení pokuty za opožděné tvrzení daně podané z vlastní iniciativy bez výzvy (§ 15a) — výjimka z § 250 daňového řádu ve prospěch poplatníka. Korelativní čtení obou modalit odhaluje vnitřní logiku daně: osvobození nepůsobí automaticky, nýbrž je zpravidla podmíněno aktivním uplatněním a materiálním splněním účelu, jemuž nemovitost slouží.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 3 odst. 1 | je poplatníkem | „Poplatníkem daně z pozemků je vlastník pozemku." | Základní pravidlo: nositelem daňové povinnosti je vlastník pozemku. |
+| § 8 odst. 1 | poplatníkem je vlastník | „Poplatníkem daně ze staveb a jednotek je vlastník zdanitelné stavby nebo zdanitelné jednotky." | Vazba daňové povinnosti na vlastnické právo u staveb a jednotek. |
+| § 3 odst. 3 | je vždy … poplatníkem | „Poplatníkem daně z pozemků je vždy nájemce nebo pachtýř u pronajatého nebo propachtovaného pozemku, je-li" | Odchylný přenos povinnosti z vlastníka na nájemce či pachtýře ve vyjmenovaných případech. |
+| § 1 odst. 2 | vzniká samostatně (daňová povinnost) | „Daňová povinnost k dani z nemovitých věcí vzniká samostatně za obvod územní působnosti jednotlivého správce daně z nemovitých věcí." | Územní štěpení daňové povinnosti podle obvodů správců daně. |
+| § 13 odst. 1 | jsou povinni plnit společně a nerozdílně | „jsou povinni plnit daňovou povinnost společně a nerozdílně" | Pasivní solidarita spoluvlastníků jako lex specialis vůči § 20 DŘ. |
+| § 14 odst. 2 | je poplatník povinen podat | „je poplatník povinen podat dodatečná daňová přiznání na všechna zdaňovací období, ve kterých uplatnil nárok na toto osvobození" | Kaskádová retroaktivní povinnost po zániku osvobození. |
+| § 16b odst. 1 | je povinna zaslat | „Obec je povinna elektronicky zaslat stejnopis opatření obecné povahy vydaného podle tohoto zákona správci daně nejpozději do 30. června" | Subjektivní povinnost obce doručit stejnopis OOP, jinak se k němu nepřihlíží. |
+| § 4 odst. 1 | jsou osvobozeny | „Od daně z pozemků jsou osvobozeny" | Katalog věcných a osobních osvobození ve veřejném, sociálním a ekologickém zájmu. |
+| § 9 odst. 1 | jsou osvobozeny | „Od daně ze staveb a jednotek jsou osvobozeny" | Věcná osvobození vybraných staveb a jednotek jako výhoda snižující zátěž. |
+| § 15a | nevzniká povinnost uhradit pokutu | „nevzniká poplatníkovi povinnost uhradit pokutu za opožděné tvrzení daně" | Výjimka z § 250 DŘ zvýhodňující poplatníka, který přiznání podá bez výzvy. |
+
+Judikatorní ilustrace ke korelaci vlastnictví a poplatnické povinnosti (skutečný vlastník, nikoli jen osoba v katastru):
+
+- *NSS* [15 Af 53/2018 - 35](judikatura/NSS-15-Af-53-2018-35.md) — rozsudek z 21. 4. 2021, k § 3 a § 8
+  > „[P]oplatníkem daně z nemovitých věcí podle § 3 odst. 1 a § 8 odst. 1 zákona č. 338/1992 Sb., o dani z nemovitých věcí, je skutečný vlastník nemovité věci, nikoliv pouze osoba evidovaná v katastru nemovitostí, a to i tehdy, je-li existence vlastnického práva deklarována zpětně, s účinky ex tunc"
+
+Judikatorní ilustrace k podmíněnosti osvobození (oprávnění) materiálním naplněním veřejně prospěšného účelu:
+
+- *NSS* [10 Afs 222/2025 - 64](judikatura/NSS-10-Afs-222-2025-64.md) — rozsudek z 23. 1. 2026, k § 9
+  > „Osvobození od daně podle § 9 odst. 1 ZDNV je obecně spojeno s podmínkou, že určitá nemovitá věc slouží konkrétně vymezenému veřejně prospěšnému účelu."
+
+### Domněnky a fikce
+
+Domněnky a fikce jsou v dani z nemovitých věcí zastoupeny natolik hustě, že tvoří samostatnou konstrukční osu předpisu. **Fikce** (obrat „hledí jako na nemovitou věc", „hledí se, jako by") slouží zejména k **daňovému překlenutí soukromoprávní reality**: stavba, jež soukromoprávně splynula s pozemkem (superficies solo cedit), se pro účely daně považuje za samostatnou nemovitou věc s určeným vlastníkem (§ 7 odst. 3); pozemek v jednotce se přisuzuje vlastníku jednotky (§ 2 odst. 3); stavební a nestavební část téže parcely se zdaní jako dva pozemky bez geometrického oddělení (§ 1a odst. 2). Fikce zde umožňují daňové právo strukturovat nezávisle na katastrálním či občanskoprávním zápisu.
+
+Druhou funkcí fikcí je **sankční a zajišťovací účinek**: nezákonně upravený koeficient se posuzuje, jako by nebyl upraven (§ 6 odst. 4), a nemovitost neoznačená v obecně závazné vyhlášce či opatření obecné povahy se pokládá za neosvobozenou (§ 12d odst. 3, § 17a odst. 5 písm. c) — tím zákon vynucuje určitost a řádnou individualizaci. **Domněnky** naopak pracují s pravděpodobností: vyvratitelná domněnka „má se za to" (§ 12a odst. 1) řeší kolizi shodných názvů územních jednotek s možností důkazu opaku, kdežto nevyvratitelné „platí, že" (§ 4 odst. 6, § 11f odst. 2) rozšiřuje osvobození, resp. stropuje meziroční růst inflačního koeficientu, aniž připouští protidůkaz. Zvláštní skupinou je **formální publicita katastru** — pro základ daně u jednotky se přednostně přejímá evidovaná plocha „bez ohledu na to, zda odpovídá skutečnému stavu" (§ 10 odst. 4 písm. a).
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 7 odst. 3 | hledí jako na nemovitou věc | „Na zdanitelnou stavbu, která není samostatnou nemovitou věcí, se pro účely daně z nemovitých věcí hledí jako na nemovitou věc" | Fikce překlenující superficiální zásadu — zachovává zdanitelnost splynulé stavby. |
+| § 2 odst. 3 | hledí se … jako na nemovitou věc | „se pro účely daně z nemovitých věcí hledí jako na nemovitou věc, jejímž vlastníkem je ten, kdo vlastní jednotku" | Daňové přisouzení pozemku v jednotce vlastníku jednotky. |
+| § 1a odst. 2 | hledí se … jako na dva samostatné pozemky | „hledí se na ni a na zbývající část pozemku pro účely daně z nemovitých věcí jako na dva samostatné pozemky" | Odlišné zdanění stavební a nestavební části parcely bez geometrického oddělení. |
+| § 6 odst. 4 | hledí se … jako kdyby nebyl upraven | „hledí se na koeficient podle odstavce 3, jako kdyby nebyl upraven" | Sankční fikce neúčinnosti vadně upraveného koeficientu. |
+| § 12d odst. 3 | se hledí, jako by nebyl osvobozen | „Na pozemek, který v obecně závazné vyhlášce není označen tímto způsobem, se hledí, jako by nebyl osvobozen." | Sankční fikce vynucující určité označení pozemku. |
+| § 17a odst. 5 písm. c) | hledí se, jako by | „na nemovitou věc, která v opatření obecné povahy není označena tímto způsobem, se hledí, jako by nebyla osvobozena." | Fikce neosvobození neoznačené nemovitosti — vylučuje extenzivní výklad. |
+| § 10 odst. 4 písm. a) | bez ohledu na to, zda odpovídá skutečnému stavu | „evidovaná v katastru nemovitostí, bez ohledu na to, zda odpovídá skutečnému stavu" | Formální publicita katastru — přednost evidované plochy pro základ daně. |
+| § 10a odst. 4 | se vždy zařadí | „se vždy zařadí do odpovídající skupiny podle odstavce 1 písm. d) až f)" | Fikce podnikatelského užití u majetku v obchodním majetku podnikatele. |
+| § 12a odst. 1 | má se za to | „má se za to, že je stanoven pro městský obvod nebo pro městskou část" | Vyvratitelná domněnka řešící kolizi shodných názvů územních jednotek. |
+| § 4 odst. 6 | platí, že | „platí, že se osvobození vztahuje na všechny pozemky podle odstavce 1 písm. z) bodů 1 až 4" | Nevyvratitelná domněnka rozšiřující osvobození při mlčení vyhlášky obce. |
+| § 11f odst. 2 | platí, že | „platí, že inflační koeficient platný v tomto zdaňovacím období je o jednu pětinu vyšší" | Fikce stropující meziroční přírůstek inflačního koeficientu. |
+| § 19b | považuje se za | „se považuje za společného zástupce i na následující zdaňovací období, pokud si poplatníci nezvolí jiného společného zástupce" | Fikce procesní kontinuity dosavadního společného zástupce spoluvlastníků. |
+
+Judikatorní ilustrace k fikci předmětu daně ze staveb (negativní vymezení dokládá záměr zákonodárce podřídit dani i stavby bez obvodového pláště):
+
+- *ÚS* [II.ÚS 596/01](judikatura/US-II-S-596-01.md) — usnesení z 3. 6. 2003, k § 7
+  > „Z negativního vymezení pojmu stavba v ustanovení § 7 odst. 2 cit. zák. je zřejmé, že zákonodárce měl při vymezení předmětu daně ze staveb na mysli i stavby bez obvodového pláště."
+
+### Modality v systému předpisu — jak se v klíčových institutech kombinují
+
+Modality v dani z nemovitých věcí nevystupují izolovaně; teprve jejich kombinace tvoří funkční instituty. Lze rozlišit několik typických spojení, vždy ukotvených v položkách klasifikace:
+
+**Osvobození jako řetězec oprávnění → příkaz → fikce.** Osvobození je nejprve výhodou (oprávnění): „Od daně z pozemků jsou osvobozeny" (§ 4 odst. 1), „Od daně ze staveb a jednotek jsou osvobozeny" (§ 9 odst. 1). Aby se prosadilo, musí být u vyjmenovaných liter aktivně uplatněno (příkaz): poplatník „uplatní nárok na osvobození od daně z pozemků" v daňovém přiznání (§ 4 odst. 4). Zaniknou-li podmínky, nastupuje kaskádová povinnost: „je poplatník povinen podat dodatečná daňová přiznání na všechna zdaňovací období" (§ 14 odst. 2). Mlčí-li vyhláška obce, zákon rozsah osvobození dofikuje: „platí, že se osvobození vztahuje na všechny pozemky podle odstavce 1 písm. z)" (§ 4 odst. 6). Výhoda se tedy stává vynutitelnou teprve součinností procesního příkazu a doplňujících domněnek.
+
+**Obecní koeficienty jako spojení zmocnění, dovolení, příkazu a sankční fikce.** Obec je zmocněna: „Obec může obecně závaznou vyhláškou koeficient podle odstavce 4 zvýšit o jednu kategorii" (§ 11 odst. 5); místní koeficient „může obec stanovit" (§ 12 odst. 1). Vadné využití zmocnění je sankcionováno fikcí: „hledí se na koeficient podle odstavce 3, jako kdyby nebyl upraven" (§ 6 odst. 4). V chráněných územích naopak nastupuje kogentní příkaz: sazba se „násobí koeficientem 2,0" (§ 11 odst. 6). Autonomie obce je tak vsazena do rámce, kde možnost volby (dovolení/zmocnění) doprovází povinné korekce (příkaz) i následky pochybení (fikce).
+
+**Poplatník a stavová daň jako spojení povinnosti, zákazu a fikce.** Povinnost je vázána na vlastnictví: „Poplatníkem daně z pozemků je vlastník pozemku" (§ 3 odst. 1), „Poplatníkem daně ze staveb a jednotek je vlastník" (§ 8 odst. 1). Rozhodným okamžikem je stav k počátku období, k pozdějším změnám „se nepřihlíží" (§ 12c) — zákaz zajišťující stabilitu. Splynula-li stavba s pozemkem, fikce ji přesto zdaňuje: „hledí se jako na nemovitou věc" (§ 7 odst. 3). Vlastnická povinnost, temporální zákaz a překlenovací fikce dohromady vytvářejí konstrukci stavové majetkové daně nezávislé na soukromoprávním pohybu.
+
+**Ochrana před dvojím zdaněním jako spojení zákazu a příkazu.** Organizační příkaz „Nemovitá věc a podíl na ní se uvádí pouze na jednom výpočtovém listu" (§ 11b odst. 2) doplňuje zákaz souběhu zatížení: „Odstavec 1 se nepoužije na zdanitelnou stavbu, na kterou se použije sazba daně podle § 11 odst. 1 písm. f) až h)" (§ 11a odst. 3). Obě modality směřují k témuž cíli — vyloučit, aby táž plocha byla zdaněna dvakrát.
+
+Judikatorní ilustrace k systémovému fungování oprávnění (výjimka z pokuty jako moderace sankce daňového řádu):
+
+- *NSS* [6 Af 76/2015 - 28](judikatura/NSS-6-Af-76-2015-28.md) — rozsudek z 14. 7. 2017, k § 15a
+  > „Dalším hmotně právním předpisem moderujícím pokutu dle § 250 daňového řádu je ustanovení § 15a zákona č. 338/1992 Sb. o dani z nemovitých věcí. V tomto případě je vyžadována absence upozornění ze strany správce daně, rovněž se však jedná o situaci, kdy sám zákonodárce si uvědomuje tvrdost sankce v některých případech."
+
+Judikatorní ilustrace k systémovému postavení předmětu daně ze staveb (faktické užívání je relevantní až u sazby):
+
+- *NSS* [9 Afs 195/2023 - 43](judikatura/NSS-9-Afs-195-2023-43.md) — rozsudek z 19. 10. 2023, k § 7
+  > „Podstatné není ani to, jak je stavba daněna, neboť předmět daně ze staveb je konstruován jinak než předmět místního poplatku za komunální odpad, přičemž faktické užívání stavby je u této daně relevantní až z hlediska určení sazby daně."
+
+### Přehledová tabulka — modalita → typické normativní výrazy → reprezentativní ustanovení
+
+| Modalita | Typické normativní výrazy | Reprezentativní ustanovení |
+|---|---|---|
+| Příkaz | je povinen podat; uplatní; zařadí se; násobí koeficientem; činí součin; musí být vydány; vyrozumí; je splatná ve splátkách nejpozději do | § 13a odst. 1; § 4 odst. 4; § 10a odst. 2; § 11 odst. 6; § 11a odst. 1; § 11b odst. 2; § 15 odst. 1 písm. b); § 16a odst. 4; § 17a odst. 3 |
+| Zákaz | se nepřihlíží; nepřihlíží se k; se nepoužije; nesmí překročit | § 12c; § 16a odst. 1; § 16a odst. 3; § 11a odst. 3; § 12d odst. 1 |
+| Dovolení | může obec stanovit; obec může … zvýšit; může osvobodit; lze přijmout | § 12 odst. 1; § 6 odst. 4; § 17a odst. 1; § 17a odst. 2 |
+| Zmocnění | upraví vyhláškou; ve vyhlášce vydané na základě zmocnění; obec může obecně závaznou vyhláškou; jestliže tak obec stanoví OZV; lze stanovit; daň se vyměří | § 17; § 5 odst. 1; § 11 odst. 5; § 4 odst. 1 písm. z); § 13b odst. 2; § 20 |
+| Oprávnění | jsou osvobozeny; nevzniká povinnost uhradit pokutu | § 4 odst. 1; § 9 odst. 1; § 15a |
+| Povinnost | je poplatníkem; poplatníkem je vlastník; je vždy … poplatníkem; vzniká samostatně; jsou povinni plnit společně a nerozdílně; je povinna zaslat; je poplatník povinen podat | § 3 odst. 1; § 8 odst. 1; § 3 odst. 3; § 8 odst. 3; § 1 odst. 2; § 13 odst. 1; § 14 odst. 2; § 16b odst. 1 |
+| Domněnka / fikce | hledí se … jako na; hledí se, jako by; má se za to; platí, že; považuje se za; se vždy zařadí; bez ohledu na to, zda odpovídá skutečnému stavu | § 7 odst. 3; § 2 odst. 3; § 1a odst. 2; § 6 odst. 4; § 12d odst. 3; § 17a odst. 5 písm. c); § 10 odst. 4 písm. a); § 10a odst. 4; § 12a odst. 1; § 4 odst. 6; § 11f odst. 2; § 19b |
