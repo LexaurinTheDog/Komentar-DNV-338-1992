@@ -80,6 +80,58 @@ V praxi platí, že daň z nemovitých věcí se „rozpadá" podle finančních
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=67edd3660da7dbdadf42 generator=2026-07-17.4 source_sha256=d75d1c95c479c628c793eba83e2d8b08f4d9e041d6909ad4f51e8b3ae2586af1 -->
+#### Revizní doplnění k § 1 — Úvodní ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/338-1992 Zákon České národní rady o dani z nemovitých věcí.md`; identifikátor verze: `SB-1992-00338_2025-10-01`; SHA-256: `d75d1c95c479c628c793eba83e2d8b08f4d9e041d6909ad4f51e8b3ae2586af1`.
+
+##### Znění ustanovení
+
+> (1) Tento zákon upravuje daň z nemovitých věcí, kterou tvoří
+>
+> - a) daň z pozemků,
+>
+> - b) daň ze staveb a jednotek.
+>
+> (2) Daňová povinnost k dani z nemovitých věcí vzniká samostatně za obvod územní působnosti jednotlivého správce daně z nemovitých věcí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=67edd3660da7dbdadf42 -->
+
 ### § 1a — Druh pozemku a způsob využití nemovité věci
 
 > **§ 1a**
@@ -223,6 +275,98 @@ Pro daň z nemovitých věcí platí, že rozhoduje katastr, ne realita: druh po
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8793885da920f44c64a5 generator=2026-07-17.4 source_sha256=d75d1c95c479c628c793eba83e2d8b08f4d9e041d6909ad4f51e8b3ae2586af1 -->
+#### Revizní doplnění k § 1a — Druh pozemku a způsob využití nemovité věci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/338-1992 Zákon České národní rady o dani z nemovitých věcí.md`; identifikátor verze: `SB-1992-00338_2025-10-01`; SHA-256: `d75d1c95c479c628c793eba83e2d8b08f4d9e041d6909ad4f51e8b3ae2586af1`.
+
+##### Znění ustanovení
+
+> (1) Pro účely daně z nemovitých věcí se rozumí
+>
+> - a) budovou garáže zdanitelná stavba se způsobem využití garáž,
+>
+> - b) budovou pro rodinnou rekreaci zdanitelná stavba se způsobem využití stavba pro rodinnou rekreaci, budova rodinného domu užívaná pro rodinnou rekreaci a objekt k bydlení užívaný pro rodinnou rekreaci,
+>
+> - c) lesním pozemkem pozemek druhu lesní pozemek,
+>
+> - d) ostatní plochou pozemek druhu ostatní plocha,
+>
+> - e) pozemkem orné půdy pozemek druhu orná půda,
+>
+> - f) pozemkem chmelnic pozemek druhu chmelnice,
+>
+> - g) pozemkem vinic pozemek druhu vinice,
+>
+> - h) pozemkem zahrad pozemek druhu zahrada,
+>
+> - i) pozemkem ovocných sadů pozemek druhu ovocný sad,
+>
+> - j) pozemkem trvalých travních porostů pozemek druhu trvalý travní porost,
+>
+> - k) stavebním pozemkem pozemek nebo jeho část, které jsou určené podle pravomocného povolení stavby podle stavebního zákona k zastavění zdanitelnou stavbou, a to v rozsahu výměry pozemku v m2 odpovídající zastavěné ploše nadzemní části stavby,
+>
+> - l) vodní plochou pozemek druhu vodní plocha,
+>
+> - m) zastavěnou plochou a nádvořím pozemek druhu zastavěná plocha a nádvoří,
+>
+> - n) zemědělským pozemkem zemědělský pozemek podle katastrálního zákona,
+>
+> - o) zpevněnou plochou pozemku pozemek nebo jeho část, které jsou užívány k podnikání nebo které má podnikatel zařazeny v obchodním majetku podle zákona upravujícího daně z příjmů, jejichž povrch je zpevněn stavbou podle stavebního zákona bez svislé nosné konstrukce, včetně plochy vlečky, bazénu nebo nádrže, pokud tyto nejsou zdanitelnou stavbou.
+>
+> (2) Stavebním pozemkem podle odstavce 1 písm. k) není pozemek určený k zastavění zdanitelnou stavbou, která bude alespoň z části osvobozena podle § 9 odst. 1 písm. g), i) nebo j). Je-li stavebním pozemkem pouze část pozemku, hledí se na ni a na zbývající část pozemku pro účely daně z nemovitých věcí jako na dva samostatné pozemky. Pozemek přestane být stavebním pozemkem, pokud se zdanitelná stavba nebo všechny jednotky v ní stanou předmětem daně ze staveb a jednotek, nebo pokud toto povolení stavby pozbude platnosti.
+>
+> (3) Je-li zpevněnou plochou pozemku pouze část pozemku, hledí se na ni a na zbývající část pozemku pro účely daně z nemovitých věcí jako na dva samostatné pozemky.
+>
+> (4) Pro účely daně z nemovitých věcí se druhem pozemku rozumí druh pozemku
+>
+> - a) evidovaný v katastru nemovitostí bez ohledu na to, zda odpovídá skutečnému stavu, nebo
+>
+> - b) podle katastrálního zákona nejblíže odpovídající skutečnému stavu pozemku, není-li o pozemku v katastru nemovitostí evidován žádný druh pozemku.
+>
+> (5) Pro účely daně z nemovitých věcí se způsobem využití nemovité věci rozumí způsob využití
+>
+> - a) evidovaný v katastru nemovitostí bez ohledu na to, zda odpovídá skutečnému stavu, nebo
+>
+> - b) podle právních předpisů upravujících katastr nemovitostí nejblíže odpovídající skutečnému způsobu využití nemovité věci, není-li u nemovité věci znám žádný způsob využití nebo není-li nemovitá věc evidována v katastru nemovitostí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 9
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8793885da920f44c64a5 -->
+
 ## Část druhá — Daň z pozemků
 
 ### § 2 — Předmět daně
@@ -318,6 +462,66 @@ Předmětem daně z pozemků jsou pozemky evidované v katastru na území ČR (
 **Typicky rozhodné důkazy / podklady:** výpis a snímek z katastru, kolaudační rozhodnutí a zaměření zastavěné plochy, geometrický plán, výpis z lesního hospodářského plánu (kategorie lesa), prohlášení vlastníka a údaje o jednotkách v bytovém domě.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=fc42f20c76be6b7e5b14 generator=2026-07-17.4 source_sha256=d75d1c95c479c628c793eba83e2d8b08f4d9e041d6909ad4f51e8b3ae2586af1 -->
+#### Revizní doplnění k § 2 — Předmět daně
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/338-1992 Zákon České národní rady o dani z nemovitých věcí.md`; identifikátor verze: `SB-1992-00338_2025-10-01`; SHA-256: `d75d1c95c479c628c793eba83e2d8b08f4d9e041d6909ad4f51e8b3ae2586af1`.
+
+##### Znění ustanovení
+
+> (1) Předmětem daně z pozemků jsou pozemky na území České republiky evidované v katastru nemovitostí.
+>
+> (2) Předmětem daně z pozemků nejsou
+>
+> - a) pozemky zastavěné zdanitelnými stavbami v rozsahu zastavěné plochy těchto staveb,
+>
+> - b) lesní pozemky v rozsahu, v němž jsou lesy ochrannými nebo lesy zvláštního určení podle lesního zákona,
+>
+> - c) vodní plochy,
+>
+> - d) pozemky určené pro obranu České republiky,
+>
+> - e) pozemky v rozsahu odpovídajícím výši spoluvlastnických podílů na nich, které jsou součástí zdanitelných jednotek v budově bytového domu, a jiné pozemky ve spoluvlastnictví vlastníků zdanitelných jednotek v budově bytového domu užívané společně s těmito jednotkami, a to v rozsahu odpovídajícím výši spoluvlastnických podílů těchto spoluvlastníků na nich.
+>
+> (3) Na pozemek, který je součástí jednotky, se pro účely daně z nemovitých věcí hledí jako na nemovitou věc, jejímž vlastníkem je ten, kdo vlastní jednotku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fc42f20c76be6b7e5b14 -->
 
 ### § 3 — Poplatníci daně
 
@@ -434,6 +638,82 @@ Poplatníkem daně z pozemků je zásadně vlastník (odst. 1), avšak zákon zn
 **Typicky rozhodné důkazy / podklady:** výpis z katastru (vlastník, právo stavby, zjednodušená evidence), smlouva o zřízení práva stavby, smlouvy o výpůjčce/nájmu/pachtu, statut a doklady správce fondu, podklady o příslušnosti hospodařit s majetkem státu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=333d3bb0ca5ec61b07b7 generator=2026-07-17.4 source_sha256=d75d1c95c479c628c793eba83e2d8b08f4d9e041d6909ad4f51e8b3ae2586af1 -->
+#### Revizní doplnění k § 3 — Poplatníci daně
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/338-1992 Zákon České národní rady o dani z nemovitých věcí.md`; identifikátor verze: `SB-1992-00338_2025-10-01`; SHA-256: `d75d1c95c479c628c793eba83e2d8b08f4d9e041d6909ad4f51e8b3ae2586af1`.
+
+##### Znění ustanovení
+
+> (1) Poplatníkem daně z pozemků je vlastník pozemku.
+>
+> (2) Poplatníkem daně z pozemků je, jde-li o pozemek
+>
+> - a) ve vlastnictví České republiky,
+>
+> - 1. organizační složka státu, státní příspěvková organizace, státní fond, státní podnik nebo jiná státní organizace, které jsou příslušné hospodařit nebo mají právo hospodařit s majetkem státu,
+>
+> - 2. právnická osoba, která má právo užívat tento pozemek na základě výpůjčky vzniklé podle zákona upravujícího některé užívací vztahy k majetku České republiky,
+>
+> - b) ve svěřenském fondu, tento fond,
+>
+> - c) v podílovém fondu, tento fond,
+>
+> - d) ve fondu obhospodařovaném penzijní společností, tento fond,
+>
+> - e) zatížený právem stavby, stavebník.
+>
+> (3) Poplatníkem daně z pozemků je vždy nájemce nebo pachtýř u pronajatého nebo propachtovaného pozemku, je-li
+>
+> - a) evidovaný v katastru nemovitostí zjednodušeným způsobem,
+>
+> - b) s ním příslušná hospodařit Správa státních hmotných rezerv, nebo
+>
+> - c) převedený na základě rozhodnutí o privatizaci na Ministerstvo financí.
+>
+> (4) Uživatel je poplatníkem daně z pozemků, pokud
+>
+> - a) vlastník pozemku není znám, nebo
+>
+> - b) s pozemkem je příslušný hospodařit Státní pozemkový úřad nebo Úřad pro zastupování státu ve věcech majetkových.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=333d3bb0ca5ec61b07b7 -->
 
 ### § 4 — Osvobození od daně
 
@@ -697,6 +977,188 @@ Splňuje-li podmínky osvobození pouze část pozemku, je osvobozena pouze tato
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=0ca68d9d9e0aad925fd2 generator=2026-07-17.4 source_sha256=d75d1c95c479c628c793eba83e2d8b08f4d9e041d6909ad4f51e8b3ae2586af1 -->
+#### Revizní doplnění k § 4 — Osvobození od daně
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/338-1992 Zákon České národní rady o dani z nemovitých věcí.md`; identifikátor verze: `SB-1992-00338_2025-10-01`; SHA-256: `d75d1c95c479c628c793eba83e2d8b08f4d9e041d6909ad4f51e8b3ae2586af1`.
+
+##### Znění ustanovení
+
+> (1) Od daně z pozemků jsou osvobozeny
+>
+> - a) pozemky ve vlastnictví České republiky,
+>
+> - b) pozemky
+>
+> - 1. ve vlastnictví té obce, na jejímž území se nacházejí, nebo
+>
+> - 2. zatížené právem stavby, pokud je stavebníkem obec, na jejímž území se nacházejí,
+>
+> - c) pozemky užívané diplomatickými zástupci pověřenými v České republice, konzuly z povolání a jinými osobami, které podle mezinárodního práva požívají diplomatických a konzulárních výsad a imunity, a to za předpokladu, že nejsou občany České republiky, a že je zaručena vzájemnost,
+>
+> - d) pozemky tvořící jeden funkční celek se zdanitelnou stavbou veřejně přístupného památkového objektu prohlášeného za kulturní památku, který je
+>
+> - 1. ve vlastnictví České republiky, nebo
+>
+> - 2. přístupný z důvodů výchovně vzdělávacích na základě písemné smlouvy uzavřené mezi Ministerstvem kultury a vlastníkem,
+>
+> - e) pozemky tvořící jeden funkční celek se zdanitelnou stavbou, která je budovou, nebo se zdanitelnou jednotkou sloužící k vykonávání náboženských obřadů registrovaných církví a registrovaných náboženských společností podle zákona upravujícího církve a náboženské společnosti nebo sloužící k výkonu duchovní správy těchto církví a náboženských společností,
+>
+> - f) pozemky tvořící jeden funkční celek se zdanitelnou stavbou, která je budovou, nebo se zdanitelnou jednotkou ve vlastnictví obecně prospěšných společností, spolků, odborových organizací, organizací zaměstnavatelů, mezinárodních odborových organizací a jejich pobočných organizací,
+>
+> - g) pozemky tvořící jeden funkční celek se zdanitelnou stavbou nebo zdanitelnou jednotkou sloužící
+>
+> - 1. škole nebo školskému zařízení zapsanému ve školském rejstříku,
+>
+> - 2. poskytování péče o děti do 3 let věku na základě oprávnění provozovat živnostenské podnikání,
+>
+> - 3. muzeu nebo galerii, které spravují sbírky zapsané do centrální evidence sbírek muzejní povahy vedené Ministerstvem kultury,
+>
+> - 4. knihovně vedené v evidenci knihoven,
+>
+> - 5. veřejnému archivu podle zákona upravujícího archivnictví a spisovou službu,
+>
+> - 6. zdravotnickému zařízení uvedenému v rozhodnutí o udělení oprávnění k poskytování zdravotních služeb nebo v rozhodnutí o registraci,
+>
+> - 7. zařízení sociálních služeb,
+>
+> - 8. fundaci nebo ústavu k jimi vykonávané veřejně prospěšné činnosti,
+>
+> - 9. spolku zdravotně postižených občanů,
+>
+> - 10. zařízení služby péče o dítě v dětské skupině podle zákona upravujícího poskytování služby péče o dítě v dětské skupině,
+>
+> - 11. sociálnímu družstvu,
+>
+> - h) pozemky tvořící jeden funkční celek se zdanitelnou stavbou nebo zdanitelnou jednotkou sloužící výlučně
+>
+> - 1. provozu malých vodních elektráren do výkonu 1 MW,
+>
+> - 2. provozu výroben elektřiny využívajících energii větru,
+>
+> - 3. provozu výroben elektřiny nebo tepla využívajících energie bioplynu, pokud je získaná energie dodávána do sítě nebo dalším spotřebitelům,
+>
+> - 4. pro zdroje využívající geotermální energie včetně tepelných čerpadel, které dodávají teplo spotřebitelům,
+>
+> - 5. pro čistírny odpadních vod,
+>
+> - 6. rozvodnému tepelnému zařízení podle energetického zákona,
+>
+> - i) pozemky, na nichž jsou zřízena veřejná a neveřejná pohřebiště podle zákona upravujícího pohřebnictví,
+>
+> - j) pozemky území zvláště chráněných podle předpisů [[o ochraně přírody a krajiny|o ochraně přírody a krajiny]] s výjimkou národních parků a chráněných krajinných oblastí; v národních parcích pozemky zařazené do zóny přírodní nebo zóny přírodě blízké a v chráněných krajinných oblastech pozemky zařazené do jejich I. zóny,
+>
+> - k) pozemky v rozsahu, v jakém se na nich nachází
+>
+> - 1. ochranné pásmo vodního zdroje I. stupně, nebo
+>
+> - 2. ekologicky významný prvek evidovaný v evidenci ekologicky významných prvků podle zákona upravujícího zemědělství,
+>
+> - l) pozemky v rozsahu, v jakém se na nich nachází
+>
+> - 1. veřejné prostranství,
+>
+> - 2. veřejně přístupné sportoviště, nebo
+>
+> - 3. veřejně přístupná účelová komunikace jiná než podle písmene o), zpravidla lesní nebo polní cesta,
+>
+> - m) zemědělské pozemky na dobu pěti let a lesní pozemky na dobu 25 let, počínaje rokem následujícím po roce, kdy byly po rekultivaci technickým opatřením nebo biologickým zúrodňováním vráceny zemědělské nebo lesní výrobě,
+>
+> - n) v rozsahu zastavěné plochy uvedených staveb pozemky zastavěné stavbou podle stavebního zákona
+>
+> - 1. upravující vodní tok,
+>
+> - 2. přehrady,
+>
+> - 3. sloužící ochraně před povodněmi,
+>
+> - 4. sloužící k závlaze a odvodňování pozemků,
+>
+> - 5. vodovodních řadů a vodárenských objektů včetně úpraven vody,
+>
+> - 6. kanalizačních stok, kanalizačních objektů nebo čistíren odpadních vod, jakož i určenou k čištění odpadních vod před jejich vypouštěním do kanalizací, nebo
+>
+> - 7. přenosové, přepravní nebo distribuční soustavy nebo rozvodného tepelného zařízení podle energetického zákona,
+>
+> - o) pozemky zastavěné stavbou podle stavebního zákona, která je dálnicí, silnicí, místní komunikací, veřejnou účelovou komunikací, stavbou drah a na dráze, leteckou, vodních cest a přístavů, pokud jsou v souladu s kolaudačním rozhodnutím podle [[stavebního zákona|stavebního zákona]] užívány k veřejné dopravě, a to v rozsahu zastavěné plochy těchto staveb, a jiné pozemky určené pro veřejnou dopravu,
+>
+> - p) části pozemků, na kterých je zřízena měřická značka bodu bodového pole včetně signalizačního a ochranného zařízení bodu bodového pole, a pásy lesních pozemků v rozsahu vyčleněném pro rozvody elektrické energie a plynů,
+>
+> - r) pozemky ve vlastnictví veřejných vysokých škol, které slouží k uskutečňování akreditovaných studijních programů,
+>
+> - s) lesní pozemky v rozsahu, ve kterém se na nich nacházejí lesy pod vlivem imisí podle lesního zákona zařazené do dvou nejvyšších pásem ohrožení,
+>
+> - t) pozemky ve vlastnictví kraje, které se nacházejí v jeho územním obvodu,
+>
+> - u) pozemky ve vlastnictví veřejných výzkumných institucí,
+>
+> - v) zemědělské pozemky, jestliže tak obec stanoví obecně závaznou vyhláškou; pokud obec uvedené pozemky od daně z pozemků takto osvobodí, toto osvobození se nevztahuje na pozemky v zastavěném území podle stavebního zákona nebo v zastavitelné ploše podle stavebního zákona, jestliže tak obec stanoví obecně závaznou vyhláškou, ve které současně vymezí tyto pozemky a označí je způsobem podle § 12e odst. 1; na pozemek, který v obecně závazné vyhlášce není označen způsobem podle § 12e odst. 1, se hledí, jako by nebyl vyloučen z osvobození,
+>
+> - w) pozemky tvořící funkční celek s veřejnou monitorovací sítí zajišťující informace o stavu jednotlivých složek životního prostředí financované z veřejných rozpočtů,
+>
+> - x) nejdéle na dobu 5 let pozemky ve vládou schválené zvýhodněné průmyslové zóně podle zákona upravujícího investiční pobídky pořízené pro účely realizace investiční akce, pro kterou je vydáno rozhodnutí o příslibu investiční pobídky ve formě osvobození od daně z nemovitých věcí, jestliže obecně závaznou vyhláškou obec zcela nebo částečně osvobodí pozemky označené způsobem podle § 12e odst. 1 ve zvýhodněné průmyslové zóně; na pozemek, který v obecně závazné vyhlášce není označen způsobem podle § 12e odst. 1, se hledí, jako by nebyl osvobozen,
+>
+> - y) pozemky tvořící jeden funkční celek se stavbou podle stavebního zákona sloužící výlučně nebo pozemky samy o sobě sloužící výlučně k asanaci kontaminovaných pozemků, podzemních vod a objektů,
+>
+> - z) ostatní plochy s následujícím způsobem využití, jestliže tak obec stanoví obecně závaznou vyhláškou:
+>
+> - 1. neplodná půda,
+>
+> - 2. zamokřená plocha,
+>
+> - 3. mez, stráň,
+>
+> - 4. zeleň,
+>
+> - 5. jiná plocha.
+>
+> (2) Pozemkem tvořícím jeden funkční celek se stavbou podle stavebního zákona, zdanitelnou stavbou nebo zdanitelnou jednotkou se rozumí část pozemku nezbytně nutná k provozu a plnění funkce této stavby, zdanitelné stavby nebo zdanitelné jednotky.
+>
+> (3) Pozemky osvobozené podle odstavce 1 písm. a) jsou osvobozeny od daně z pozemků, nejsou-li užívány k podnikání, pronajímány nebo propachtovány; jsou-li tyto pozemky pronajaty nebo propachtovány obci, kraji nebo organizační složce státu anebo příspěvkové organizaci, jsou osvobozeny za předpokladu, že nejsou užívány k podnikání. Pozemky osvobozené podle odstavce 1 písm. d) až f), l), r), t) a u) jsou osvobozeny od daně z pozemků, nejsou-li užívány k podnikání, pronajímány nebo propachtovány. Pozemky osvobozené podle odstavce 1 písm. a), b) bodu 1 a písm. t) jsou osvobozeny od daně z pozemků, není-li k nim zřízeno právo stavby.
+>
+> (4) Poplatník daně uplatní nárok na osvobození od daně z pozemků podle odstavce 1 písm. d) až h), j), k), m), p), r), u), w) a y) v daňovém přiznání.
+>
+> (5) Pokud podmínky osvobození podle odstavce 1 splňuje pouze část pozemku, je od daně z pozemků osvobozena pouze tato část. Pokud podmínky pro vyloučení jednotlivého osvobození podle odstavce 3 splňuje pouze část pozemku, je z tohoto osvobození vyloučena pouze tato část.
+>
+> (6) V obecně závazné vyhlášce vydané podle odstavce 1 písm. z) obec zároveň stanoví, na které způsoby využití pozemku se osvobození vztahuje. Pokud obec v obecně závazné vyhlášce nestanoví způsob využití pozemku, na který se toto osvobození vztahuje, platí, že se osvobození vztahuje na všechny pozemky podle odstavce 1 písm. z) bodů 1 až 4.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12e
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0ca68d9d9e0aad925fd2 -->
+
 ### § 5 — Základ daně
 
 > **§ 5**
@@ -784,6 +1246,56 @@ Základ daně z pozemků se určuje trojí metodou podle druhu pozemku: u zeměd
 **Typicky rozhodné důkazy / podklady:** výpis a snímek z katastru (druh, výměra), geometrický plán / zaměření skutečné výměry, platné znění vyhlášky k § 17 (průměrné ceny), doklad o stavu k 1. lednu zdaňovacího období.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=409815e1ee282cb2067b generator=2026-07-17.4 source_sha256=d75d1c95c479c628c793eba83e2d8b08f4d9e041d6909ad4f51e8b3ae2586af1 -->
+#### Revizní doplnění k § 5 — Základ daně
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/338-1992 Zákon České národní rady o dani z nemovitých věcí.md`; identifikátor verze: `SB-1992-00338_2025-10-01`; SHA-256: `d75d1c95c479c628c793eba83e2d8b08f4d9e041d6909ad4f51e8b3ae2586af1`.
+
+##### Znění ustanovení
+
+> (1) Základem daně u zemědělského pozemku je cena pozemku zjištěná násobením skutečné výměry pozemku v m2 průměrnou cenou pozemku stanovenou na 1 m2 ve vyhlášce vydané na základě zmocnění v [[#§ 17|§ 17]] tohoto zákona.
+>
+> (2) Základem daně u lesního pozemku je součin skutečné výměry pozemku v m2 zjištěné k 1. lednu zdaňovacího období a částky 3,80 Kč.
+>
+> (3) Základem daně u ostatní plochy, zastavěné plochy a nádvoří, stavebního pozemku a zpevněné plochy pozemku je skutečná výměra pozemku v m2 zjištěná k 1. lednu zdaňovacího období.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 17
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=409815e1ee282cb2067b -->
 
 ### § 5a — Skupiny pozemků
 
@@ -882,6 +1394,78 @@ Odst. 2 řeší případ **smíšeného využití**: je-li zpevněná plocha už
 **Typicky rozhodné důkazy / podklady:** doklad o převažující oblasti podnikání poplatníka, zařazení plochy do obchodního majetku (daň z příjmů), nájemní/pachtovní smlouvy a doklady o způsobu užívání, ohledání a zaměření plochy, výpis z katastru (druh/způsob využití).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=7699cea13c88bd981169 generator=2026-07-17.4 source_sha256=d75d1c95c479c628c793eba83e2d8b08f4d9e041d6909ad4f51e8b3ae2586af1 -->
+#### Revizní doplnění k § 5a — Skupiny pozemků
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/338-1992 Zákon České národní rady o dani z nemovitých věcí.md`; identifikátor verze: `SB-1992-00338_2025-10-01`; SHA-256: `d75d1c95c479c628c793eba83e2d8b08f4d9e041d6909ad4f51e8b3ae2586af1`.
+
+##### Znění ustanovení
+
+> (1) Pro účely daně z nemovitých věcí tvoří skupinu
+>
+> - a) vybraných zemědělských pozemků pozemky orné půdy, chmelnic, vinic, zahrad nebo ovocných sadů,
+>
+> - b) trvalých travních porostů pozemky trvalých travních porostů,
+>
+> - c) lesních pozemků lesní pozemky,
+>
+> - d) zemědělských zpevněných ploch pozemku zpevněné plochy pozemku
+>
+> - 1. užívané k podnikání pro zemědělskou prvovýrobu, lesní hospodářství nebo vodní hospodářství nebo
+>
+> - 2. zařazené do obchodního majetku podle zákona upravujícího daně z příjmů, je-li poplatníkem daně podnikatel převážně podnikající v některé z oblastí podnikání podle bodu 1, pokud tyto zpevněné plochy nejsou současně užívány pro jinou oblast podnikání,
+>
+> - e) ostatních zpevněných ploch pozemku zpevněné plochy pozemku jiné než podle písmene d),
+>
+> - f) stavebních pozemků stavební pozemky,
+>
+> - g) nevyužitelných ostatních ploch ostatní plochy se způsobem využití neplodná půda, zamokřená plocha, mez, stráň nebo zeleň,
+>
+> - h) jiných ploch ostatní plochy se způsobem využití jiná plocha,
+>
+> - i) vybraných ostatních ploch ostatní plochy jiné než podle písmen g) a h),
+>
+> - j) zastavěných ploch a nádvoří zastavěné plochy a nádvoří.
+>
+> (2) Je-li zpevněná plocha pozemku užívána k různým druhům podnikání a nelze-li vymezit její části užívané k jednotlivým druhům podnikání, zahrnuje se do skupiny ostatních zpevněných ploch pozemku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7699cea13c88bd981169 -->
 
 ### § 6 — Sazba daně
 
@@ -1032,3 +1616,70 @@ Oprávnění obce podle odst. 4 se týká výlučně stavebních pozemků; koefi
 **Typicky rozhodné důkazy / podklady:** výpis z katastru (stavební pozemek, výměra, katastrální území/městská část), úřední údaj o počtu obyvatel obce, platné znění obecně závazné vyhlášky obce, výpočet daně podle základní sazby a koeficientu.
 
 ---
+
+<!-- LEGAL-REVISION:BEGIN id=489f33a402b487293808 generator=2026-07-17.4 source_sha256=d75d1c95c479c628c793eba83e2d8b08f4d9e041d6909ad4f51e8b3ae2586af1 -->
+#### Revizní doplnění k § 6 — Sazba daně
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/338-1992 Zákon České národní rady o dani z nemovitých věcí.md`; identifikátor verze: `SB-1992-00338_2025-10-01`; SHA-256: `d75d1c95c479c628c793eba83e2d8b08f4d9e041d6909ad4f51e8b3ae2586af1`.
+
+##### Znění ustanovení
+
+> (1) Sazba daně činí u pozemků zařazených ve skupině
+> a)vybraných zemědělských pozemků1,35 %,b)trvalých travních porostů0,45 %,c)lesních pozemků0,45 %.
+>
+> (2) Sazba daně činí za každý 1 m2 u pozemků zařazených ve skupině
+> a)zemědělských zpevněných ploch pozemku1,80 Kč,b)ostatních zpevněných ploch pozemku9,00 Kč,c)stavebních pozemků3,50 Kč,d)nevyužitelných ostatních ploch0,08 Kč,e)jiných ploch0,35 Kč,f)vybraných ostatních ploch0,35 Kč,g)zastavěných ploch a nádvoří0,35 Kč.
+>
+> (3) Sazba daně podle odstavce 2 písm. c) se násobí koeficientem
+>
+> - a) 1,0 v obci do 1 000 obyvatel,
+>
+> - b) 1,4 v obci nad 1 000 obyvatel do 6 000 obyvatel,
+>
+> - c) 1,6 v obci nad 6 000 obyvatel do 10 000 obyvatel,
+>
+> - d) 2,0 v obci nad 10 000 obyvatel do 25 000 obyvatel,
+>
+> - e) 2,5 v obci nad 25 000 obyvatel do 50 000 obyvatel,
+>
+> - f) 3,5 v obci nad 50 000 obyvatel, ve statutárním městě a ve Františkových Lázních, Luhačovicích, Mariánských Lázních a Poděbradech,
+>
+> - g) 4,5 v Praze.
+>
+> (4) Obec může obecně závaznou vyhláškou koeficient podle odstavce 3 zvýšit o jednu kategorii podle členění koeficientů pro všechny pozemky podle odstavce 2 písm. c) na území jednotlivého katastrálního území nebo jednotlivého městského obvodu nebo jednotlivé městské části. Koeficient 4,5 lze takto zvýšit na koeficient 5,0. Neodpovídá-li takto upravená výše koeficientu podmínkám podle vět první a druhé, hledí se na koeficient podle odstavce 3, jako kdyby nebyl upraven.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=489f33a402b487293808 -->
